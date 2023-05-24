@@ -1,0 +1,1 @@
+The sun and the moon (and all other celestial bodies) follow pathways (exactly) computed.

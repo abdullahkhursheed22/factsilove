@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Astrophysics",
+      "path": "ASTROPHYSICS.canvas"
+    },
+    {
+      "type": "file",
+      "title": "Nature",
+      "path": "Nature.canvas"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "74f14a9eafed67b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "15dd7b1910fe989c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a4a5334dab4f39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc665d607eb47e67",
+    "type": "split",
+    "children": [
+      {
+        "id": "50124f32f95bf33b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9066879c87eec66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea70f075f410604b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89f2d81b0b155f6a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "07ca8360a07be09d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "d703b92e3153be95",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce754bc4e6acce36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b7fe88254e836a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NATURE.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e147ca3d14509e99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NATURE.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a346dcfdc976d1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e72320a5d1dc1af1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NATURE.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d9066879c87eec66",
+  "lastOpenFiles": [
+    "obsidian-git-sync",
+    "ASTROPHYSICS.canvas",
+    "NATURE.canvas",
+    "Size of the Solar System.md",
+    "oort-cloud.jpg",
+    "kuiper-belt-3.jpeg",
+    "kuiper-belt-2.jpeg",
+    "planet-x-orbit.jpeg",
+    "visible-planets.jpg",
+    "kuiper-belt-1.jpg",
+    "solar-system-size-2.jpg",
+    "solar-system-size-1.jpg",
+    "4.md",
+    "Earth-Moon Distance.md",
+    "Saturn.md",
+    "Vulcan.md",
+    "Neptune.md",
+    "Yucatan Peninsula.md",
+    "asteroid-impact-5.jpg",
+    "asteroid-impact-4.jpeg",
+    "Arrhenotoky.md",
+    "Army Ant Raids.md",
+    "Ant Wars.md",
+    "new1.md",
+    "new 1.txt",
+    "Untitled.canvas",
+    "~$Nature.canvas",
+    "Nature.canvas",
+    "Fractal.md",
+    "Holy Quran (2;201).md",
+    "Holy Quran (2;26).md",
+    "Artemis 1.md",
+    "Honey Bees.md",
+    "Hymenopterans.md",
+    "Holy Quran (16;68-69).md",
+    "Kardashev Scale.md",
+    "Holy Quran (22;65).md",
+    "Compound Eyes.md",
+    "Io.md",
+    "Microbes.md",
+    "Holy Quran (42;49).md",
+    "Astrolabe.md"
+  ]
+}
