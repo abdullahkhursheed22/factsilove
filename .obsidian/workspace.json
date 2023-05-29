@@ -33,6 +33,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f85fd209217a3802",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -180,12 +188,12 @@
   "active": "cf8a52a12fc46b66",
   "lastOpenFiles": [
     "CMBR.md",
+    "ASTROPHYSICS.canvas",
     "last-scattering-surface.jpg",
     "cmbr.jpg",
     "NATURE.canvas",
     "test.md",
     "obsidian-git-sync",
-    "ASTROPHYSICS.canvas",
     "Size of the Solar System.md",
     "oort-cloud.jpg",
     "kuiper-belt-3.jpeg",
