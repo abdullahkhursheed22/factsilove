@@ -16,7 +16,6 @@
 		{"type":"file","file":"honey-bee-eyes.jpg","id":"91d1a8f759e81ba2","x":667,"y":-271,"width":110,"height":110,"color":"5"},
 		{"type":"file","file":"honey-bee-eyes-2.jpg","id":"3893bd7ce36c8c75","x":658,"y":-120,"width":127,"height":111,"color":"5"},
 		{"type":"file","file":"Woodpecker.md","id":"1cbe0517c2251910","x":-193,"y":-1019,"width":315,"height":289,"color":"4"},
-		{"type":"file","file":"hymenopterans.jpg","id":"0ce1d59aa7ad1c2c","x":721,"y":-512,"width":113,"height":88,"color":"5"},
 		{"type":"file","file":"Honey Bees.md","id":"dbc4f603c2cf7500","x":953,"y":-289,"width":365,"height":296,"color":"4"},
 		{"type":"file","file":"Holy Quran (16;68-69).md","id":"0c358416cac625f7","x":1384,"y":-271,"width":437,"height":259,"color":"1"},
 		{"type":"file","file":"bee-hive-hexagon.jpg","id":"2131c79e9856c38e","x":1076,"y":198,"width":119,"height":67,"color":"5"},
@@ -71,7 +70,8 @@
 		{"type":"file","file":"asteroid-impact-1.jpeg","id":"0695b1b975a7d4bf","x":-515,"y":-1518,"width":171,"height":83,"color":"5"},
 		{"type":"file","file":"asteroid-impact-3.jpeg","id":"f3b8fc096b153092","x":-115,"y":-1521,"width":161,"height":90,"color":"5"},
 		{"type":"file","file":"asteroid-impact-5.jpg","id":"5e5f66e2d2f45c5b","x":285,"y":-1527,"width":180,"height":101,"color":"5"},
-		{"type":"file","file":"asteroid-impact-4.jpeg","id":"c863a3dcbae32ec3","x":77,"y":-1520,"width":174,"height":88,"color":"5"}
+		{"type":"file","file":"asteroid-impact-4.jpeg","id":"c863a3dcbae32ec3","x":77,"y":-1520,"width":174,"height":88,"color":"5"},
+		{"type":"file","file":"hymenopterans.jpg","id":"0ce1d59aa7ad1c2c","x":785,"y":-760,"width":113,"height":88,"color":"5"}
 	],
 	"edges":[
 		{"id":"48934e6c3f50c870","fromNode":"b5112e1e1e875c99","fromSide":"left","toNode":"5d42ec7331cf2747","toSide":"right"},
@@ -140,6 +140,7 @@
 		{"id":"8f693dd7df1b8db7","fromNode":"18d90468fb13383e","fromSide":"top","toNode":"0695b1b975a7d4bf","toSide":"bottom"},
 		{"id":"874a16825249e8e1","fromNode":"18d90468fb13383e","fromSide":"top","toNode":"de6881e4dc859584","toSide":"bottom"},
 		{"id":"b93bfd9a506d8799","fromNode":"18d90468fb13383e","fromSide":"top","toNode":"c863a3dcbae32ec3","toSide":"bottom"},
-		{"id":"519b6561826e14d6","fromNode":"18d90468fb13383e","fromSide":"top","toNode":"5e5f66e2d2f45c5b","toSide":"bottom"}
+		{"id":"519b6561826e14d6","fromNode":"18d90468fb13383e","fromSide":"top","toNode":"5e5f66e2d2f45c5b","toSide":"bottom"},
+		{"id":"c47151f26c185b7c","fromNode":"fab0cf353817902f","fromSide":"left","toNode":"0ce1d59aa7ad1c2c","toSide":"right"}
 	]
 }

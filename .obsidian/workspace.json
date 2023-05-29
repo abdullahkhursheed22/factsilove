@@ -14,8 +14,24 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "73e3461809142413",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "NATURE.canvas",
+                "viewState": {
+                  "x": 1095.6653929737,
+                  "y": -628.8179173858363,
+                  "zoom": -1.3591596883513994
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NATURE.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NATURE.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NATURE.canvas"
+              }
             }
           },
           {
@@ -154,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20f2b2d404f581c9",
+  "active": "73e3461809142413",
   "lastOpenFiles": [
     "test.md",
     "obsidian-git-sync",
