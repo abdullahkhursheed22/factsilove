@@ -8,24 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20f2b2d404f581c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "73e3461809142413",
+            "id": "cf8a52a12fc46b66",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "NATURE.canvas",
+                "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": 1095.6653929737,
-                  "y": -628.8179173858363,
-                  "zoom": -1.3591596883513994
+                  "x": -820.5,
+                  "y": -621.5,
+                  "zoom": -1.3981614752965932
                 }
               }
             }
@@ -42,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMBR.md",
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMBR.md",
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMBR.md"
+                "file": "ASTROPHYSICS.canvas"
               }
             }
           },
@@ -186,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "802d94cd6044b674",
+  "active": "cf8a52a12fc46b66",
   "lastOpenFiles": [
-    "NATURE.canvas",
     "CMBR.md",
+    "last-scattering-surface.jpg",
+    "cmbr.jpg",
+    "NATURE.canvas",
     "test.md",
     "obsidian-git-sync",
     "ASTROPHYSICS.canvas",
@@ -208,8 +201,6 @@
     "Vulcan.md",
     "Neptune.md",
     "Yucatan Peninsula.md",
-    "asteroid-impact-5.jpg",
-    "asteroid-impact-4.jpeg",
     "Arrhenotoky.md",
     "Army Ant Raids.md",
     "Ant Wars.md",
