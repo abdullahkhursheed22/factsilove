@@ -11,17 +11,26 @@
             "id": "f85fd209217a3802",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Army Ant Raids.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "19e57feb58e0c481",
+            "id": "980705ed11651541",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "NATURE.canvas",
+                "viewState": {
+                  "x": 1115.5,
+                  "y": -689,
+                  "zoom": -1.3591596883513994
+                }
               }
             }
           }
@@ -100,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NATURE.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NATURE.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NATURE.canvas"
+              }
             }
           },
           {
@@ -165,8 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19e57feb58e0c481",
+  "active": "980705ed11651541",
   "lastOpenFiles": [
+    "Army Ant Raids.md",
     "ASTROPHYSICS.canvas",
     "CMBR.md",
     "last-scattering-surface.jpg",
@@ -190,7 +204,6 @@
     "Neptune.md",
     "Yucatan Peninsula.md",
     "Arrhenotoky.md",
-    "Army Ant Raids.md",
     "Ant Wars.md",
     "new1.md",
     "new 1.txt",
