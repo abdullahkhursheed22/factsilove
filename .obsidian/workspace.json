@@ -4,38 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "15dd7b1910fe989c",
+        "id": "a4194dbb85509af4",
         "type": "tabs",
         "children": [
           {
-            "id": "f85fd209217a3802",
+            "id": "dc8909efc4ef3d53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Army Ant Raids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "980705ed11651541",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "NATURE.canvas",
-                "viewState": {
-                  "x": 1115.5,
-                  "y": -689,
-                  "zoom": -1.3591596883513994
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURE.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURE.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NATURE.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -178,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "980705ed11651541",
+  "active": "dc8909efc4ef3d53",
   "lastOpenFiles": [
+    "NATURE.canvas",
     "Army Ant Raids.md",
     "ASTROPHYSICS.canvas",
     "CMBR.md",
     "last-scattering-surface.jpg",
     "cmbr.jpg",
-    "NATURE.canvas",
     "test.md",
     "obsidian-git-sync",
     "Size of the Solar System.md",
