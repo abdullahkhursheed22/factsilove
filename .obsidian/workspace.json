@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc8909efc4ef3d53",
+            "id": "d855cccaa262ae8a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc8909efc4ef3d53",
+  "active": "d855cccaa262ae8a",
   "lastOpenFiles": [
+    "ASTROPHYSICS.canvas",
     "NATURE.canvas",
     "Army Ant Raids.md",
-    "ASTROPHYSICS.canvas",
     "CMBR.md",
     "last-scattering-surface.jpg",
     "cmbr.jpg",
