@@ -22,14 +22,17 @@
 		{"type":"text","text":"Logic","id":"d30202c4f42e3eab","x":-279,"y":840,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Accuracy","id":"90ef2fe00b48ae5f","x":-544,"y":840,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Completeness","id":"272bd422224333aa","x":-809,"y":840,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"Written Records","id":"640e74adee91127e","x":-960,"y":1040,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Oral Memorization","id":"eebf20acf6f7b717","x":-980,"y":960,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Scientific Method for Text and Dialects","id":"d656c767d43822b5","x":-640,"y":1070,"width":331,"height":60,"color":"3"},
-		{"type":"text","text":"Zero contradictions","id":"28896698eb4c0d92","x":-640,"y":990,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Scientific","id":"dd8d89bd12ee3a7b","x":11,"y":990,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Numeric","id":"a7505a8ea468d07d","x":11,"y":1070,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Linguistic","id":"26abfa7a1b138454","x":11,"y":1130,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Zero contradictions","id":"4bd446d0eee82a2b","x":11,"y":1190,"width":250,"height":60,"color":"3"}
+		{"type":"text","text":"Oral Memorization","id":"eebf20acf6f7b717","x":-1286,"y":1010,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Written Records","id":"640e74adee91127e","x":-1080,"y":1140,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Zero contradictions","id":"28896698eb4c0d92","x":-830,"y":1040,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Scientific Method for Text and Dialects","id":"d656c767d43822b5","x":-705,"y":1140,"width":331,"height":60,"color":"3"},
+		{"type":"text","text":"Scientific","id":"dd8d89bd12ee3a7b","x":-323,"y":1010,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Numeric","id":"a7505a8ea468d07d","x":-198,"y":1110,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Linguistic","id":"26abfa7a1b138454","x":-29,"y":1200,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Prophetic","id":"4bd446d0eee82a2b","x":111,"y":1290,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Character","id":"50f4866e8852ab35","x":860,"y":1070,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Motive","id":"cc7856bca8e646f7","x":700,"y":1170,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Prophecies","id":"09045c873cd3c88f","x":526,"y":1290,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"9fc2766c581cd1df","fromNode":"320773088a61b092","fromSide":"bottom","toNode":"fc9ed7d2b5c3f953","toSide":"top"},
@@ -52,6 +55,17 @@
 		{"id":"49f2284302c2681e","fromNode":"1b591c3e40f0e5cb","fromSide":"bottom","toNode":"d30202c4f42e3eab","toSide":"top"},
 		{"id":"90c19eab3a9fcc73","fromNode":"1b591c3e40f0e5cb","fromSide":"bottom","toNode":"66c12ffd727ec3cd","toSide":"top"},
 		{"id":"d5f703659917d218","fromNode":"1b591c3e40f0e5cb","fromSide":"bottom","toNode":"7d90dc708e86c19a","toSide":"top"},
-		{"id":"695ce170ba0bace8","fromNode":"1b591c3e40f0e5cb","fromSide":"bottom","toNode":"4ba60322b427b6b4","toSide":"top"}
+		{"id":"695ce170ba0bace8","fromNode":"1b591c3e40f0e5cb","fromSide":"bottom","toNode":"4ba60322b427b6b4","toSide":"top"},
+		{"id":"9e3b2412e6e78bde","fromNode":"272bd422224333aa","fromSide":"bottom","toNode":"eebf20acf6f7b717","toSide":"top"},
+		{"id":"42343d6dc76d24f3","fromNode":"272bd422224333aa","fromSide":"bottom","toNode":"640e74adee91127e","toSide":"top"},
+		{"id":"b96f58a52ae59c72","fromNode":"90ef2fe00b48ae5f","fromSide":"bottom","toNode":"28896698eb4c0d92","toSide":"top"},
+		{"id":"339394f2fbea3db3","fromNode":"90ef2fe00b48ae5f","fromSide":"bottom","toNode":"d656c767d43822b5","toSide":"top"},
+		{"id":"f85e72596640e9d6","fromNode":"7d90dc708e86c19a","fromSide":"bottom","toNode":"dd8d89bd12ee3a7b","toSide":"top"},
+		{"id":"eec444bab8774292","fromNode":"7d90dc708e86c19a","fromSide":"bottom","toNode":"a7505a8ea468d07d","toSide":"top"},
+		{"id":"5bd6868906741e4a","fromNode":"7d90dc708e86c19a","fromSide":"bottom","toNode":"26abfa7a1b138454","toSide":"top"},
+		{"id":"f1ffb293e458f3a3","fromNode":"7d90dc708e86c19a","fromSide":"bottom","toNode":"4bd446d0eee82a2b","toSide":"top"},
+		{"id":"af436ae05404d980","fromNode":"4ba60322b427b6b4","fromSide":"bottom","toNode":"50f4866e8852ab35","toSide":"top"},
+		{"id":"7581f3c721776a7f","fromNode":"4ba60322b427b6b4","fromSide":"bottom","toNode":"cc7856bca8e646f7","toSide":"top"},
+		{"id":"a25e8008698e50dd","fromNode":"4ba60322b427b6b4","fromSide":"bottom","toNode":"09045c873cd3c88f","toSide":"top"}
 	]
 }
