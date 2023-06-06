@@ -11,8 +11,15 @@
             "id": "d855cccaa262ae8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "ISLAM.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ISLAM.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ISLAM.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ISLAM.canvas"
+              }
             }
           },
           {
@@ -156,6 +167,8 @@
   },
   "active": "d855cccaa262ae8a",
   "lastOpenFiles": [
+    "ISLAM.canvas",
+    "Untitled.md",
     "ASTROPHYSICS.canvas",
     "NATURE.canvas",
     "Army Ant Raids.md",
@@ -183,7 +196,6 @@
     "Ant Wars.md",
     "new1.md",
     "new 1.txt",
-    "Untitled.canvas",
     "~$Nature.canvas",
     "Nature.canvas",
     "Fractal.md",
@@ -196,7 +208,6 @@
     "Kardashev Scale.md",
     "Holy Quran (22;65).md",
     "Compound Eyes.md",
-    "Io.md",
-    "Microbes.md"
+    "Io.md"
   ]
 }
