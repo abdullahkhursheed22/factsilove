@@ -13,7 +13,6 @@
 		{"type":"text","text":"IS THERE A PURPOSE TO LIFE?","id":"a4756b8afb4d24de","x":-147,"y":200,"width":265,"height":60,"color":"1"},
 		{"type":"text","text":"WHICH MONOTHEISTIC RELIGION IS TRUE?","id":"ee1fb40be224177d","x":-198,"y":440,"width":367,"height":60,"color":"1"},
 		{"type":"text","text":"CHRISTIANITY","id":"80e8994799a75193","x":-570,"y":600,"width":250,"height":60,"color":"5"},
-		{"type":"text","text":"ISLAM","id":"1b591c3e40f0e5cb","x":-140,"y":600,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"JUDAISM","id":"8395584822b6177e","x":290,"y":600,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"Every Design has Purpose","id":"c4b6846cc741824d","x":-280,"y":320,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"Consistent Narrative","id":"66c12ffd727ec3cd","x":-14,"y":840,"width":250,"height":60,"color":"4"},
@@ -32,7 +31,9 @@
 		{"type":"text","text":"Prophetic","id":"4bd446d0eee82a2b","x":111,"y":1290,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"Character","id":"50f4866e8852ab35","x":860,"y":1070,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"Motive","id":"cc7856bca8e646f7","x":700,"y":1170,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Prophecies","id":"09045c873cd3c88f","x":526,"y":1290,"width":250,"height":60,"color":"3"}
+		{"type":"text","text":"Prophecies","id":"09045c873cd3c88f","x":526,"y":1290,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"ISLAM","id":"1b591c3e40f0e5cb","x":-140,"y":600,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"WHAT IS THE PURPOSE OF LIFE IN ISLAM?","id":"c797fc6dc2d707fb","x":-190,"y":1400,"width":353,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"9fc2766c581cd1df","fromNode":"320773088a61b092","fromSide":"bottom","toNode":"fc9ed7d2b5c3f953","toSide":"top"},
@@ -66,6 +67,7 @@
 		{"id":"f1ffb293e458f3a3","fromNode":"7d90dc708e86c19a","fromSide":"bottom","toNode":"4bd446d0eee82a2b","toSide":"top"},
 		{"id":"af436ae05404d980","fromNode":"4ba60322b427b6b4","fromSide":"bottom","toNode":"50f4866e8852ab35","toSide":"top"},
 		{"id":"7581f3c721776a7f","fromNode":"4ba60322b427b6b4","fromSide":"bottom","toNode":"cc7856bca8e646f7","toSide":"top"},
-		{"id":"a25e8008698e50dd","fromNode":"4ba60322b427b6b4","fromSide":"bottom","toNode":"09045c873cd3c88f","toSide":"top"}
+		{"id":"a25e8008698e50dd","fromNode":"4ba60322b427b6b4","fromSide":"bottom","toNode":"09045c873cd3c88f","toSide":"top"},
+		{"id":"1027fa17cfcc4320","fromNode":"1b591c3e40f0e5cb","fromSide":"bottom","toNode":"c797fc6dc2d707fb","toSide":"top"}
 	]
 }
