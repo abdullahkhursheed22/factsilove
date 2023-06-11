@@ -8,30 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "761087b2731e306d",
+            "id": "0fa41ec8d8a2adae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HUMANS.canvas",
-                "viewState": {
-                  "x": 62.4008631918673,
-                  "y": 70.71055111338916,
-                  "zoom": 1.1102230246251565e-16
-                }
-              }
-            }
-          },
-          {
-            "id": "a52448d45c6463a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subterranean London.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "london-tunnels-1.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "london-tunnels-1.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "london-tunnels-1.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "761087b2731e306d",
+  "active": "0fa41ec8d8a2adae",
   "lastOpenFiles": [
     "Subterranean London.md",
+    "HUMANS.canvas",
     "london-tunnels-8.jpg",
     "london-tunnels-7.jpg",
     "london-tunnels-6.jpg",
@@ -189,7 +167,6 @@
     "london-tunnels-2.jpg",
     "london-tunnels-1.jpg",
     "8b780bd6-8707-44b4-bd29-c2242caef5a9-2060x1373.jpg",
-    "HUMANS.canvas",
     "Satellites.md",
     "CMBR.md",
     "Compound Eyes.md",
