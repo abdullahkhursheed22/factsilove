@@ -34,8 +34,8 @@
 		{"type":"text","text":"ISLAM","id":"1b591c3e40f0e5cb","x":-140,"y":600,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"WHAT IS THE PURPOSE OF LIFE IN ISLAM?","id":"c797fc6dc2d707fb","x":-190,"y":1400,"width":353,"height":60,"color":"5"},
 		{"type":"text","text":"Written Records","id":"640e74adee91127e","x":-1080,"y":1140,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Misconceptions about Islam","id":"389cb3a655ca7f10","x":-934,"y":1600,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"5 Vices Islam Solves","id":"ca8da4a3fefb0210","x":-624,"y":1600,"width":250,"height":60,"color":"3"}
+		{"type":"text","text":"5 Vices Islam Solves","id":"ca8da4a3fefb0210","x":-3,"y":1540,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Misconceptions about Islam","id":"389cb3a655ca7f10","x":-279,"y":1540,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"9fc2766c581cd1df","fromNode":"320773088a61b092","fromSide":"bottom","toNode":"fc9ed7d2b5c3f953","toSide":"top"},
