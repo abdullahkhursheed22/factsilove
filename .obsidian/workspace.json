@@ -11,8 +11,15 @@
             "id": "0fa41ec8d8a2adae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "ASTROPHYSICS.canvas",
+                "viewState": {
+                  "x": -820.5,
+                  "y": -621.5,
+                  "zoom": -1.4224432662367246
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ASTROPHYSICS.canvas"
+              }
             }
           },
           {
@@ -156,48 +167,52 @@
   },
   "active": "0fa41ec8d8a2adae",
   "lastOpenFiles": [
-    "ISLAM.canvas",
-    "Subterranean London.md",
-    "HUMANS.canvas",
-    "london-tunnels-8.jpg",
-    "london-tunnels-7.jpg",
-    "london-tunnels-6.jpg",
-    "london-tunnels-5.jpg",
-    "london-tunnels-4.jpg",
-    "london-tunnels-3.jpg",
-    "london-tunnels-2.jpg",
-    "london-tunnels-1.jpg",
-    "8b780bd6-8707-44b4-bd29-c2242caef5a9-2060x1373.jpg",
-    "Satellites.md",
-    "CMBR.md",
-    "Compound Eyes.md",
-    "ASTROPHYSICS.canvas",
     "NATURE.canvas",
-    "Army Ant Raids.md",
-    "last-scattering-surface.jpg",
+    "HUMANS.canvas",
+    "ASTROPHYSICS.canvas",
+    "ressources/images/woodpecker.jpg",
+    "ressources/notes/Vulcan.md",
+    "ressources/images/titan.jpg",
+    "ressources/notes/Subterranean London.md",
+    "ressources/images/sl9-impact-site.jpg",
+    "ressources/notes/Neptune.md",
+    "ressources/notes/Hymenopterans.md",
+    "ressources/notes/CMBR.md",
+    "ressources/notes/4.md",
+    "ressources/notes/Holy Quran (22;65).md",
+    "ressources/notes",
+    "ressources/images/rings-jupiter.jpg",
+    "ressources/images/retroreflector-sites.jpg",
+    "ressources/GIFs",
+    "ressources/video/planets-between-earth-and-moon.mp4",
+    "ressources/video",
+    "ressources/images/oort-cloud.jpg",
+    "ressources/images/last-scattering-surface.jpg",
+    "ressources/images/kuiper-belt-3.jpeg",
+    "ressources/images/jwst.jpg",
+    "ressources/images/io.jpg",
+    "ISLAM.canvas",
+    "Satellites.md",
+    "ressources/notes/Compound Eyes.md",
+    "ressources/notes/Army Ant Raids.md",
     "test.md",
     "obsidian-git-sync",
-    "Size of the Solar System.md",
-    "4.md",
-    "Earth-Moon Distance.md",
-    "Saturn.md",
-    "Vulcan.md",
-    "Neptune.md",
-    "Yucatan Peninsula.md",
-    "Arrhenotoky.md",
-    "Ant Wars.md",
+    "ressources/notes/Size of the Solar System.md",
+    "ressources/notes/Earth-Moon Distance.md",
+    "ressources/notes/Saturn.md",
+    "ressources/notes/Yucatan Peninsula.md",
+    "ressources/notes/Arrhenotoky.md",
+    "ressources/notes/Ant Wars.md",
     "new1.md",
     "new 1.txt",
     "~$Nature.canvas",
     "Nature.canvas",
-    "Fractal.md",
-    "Holy Quran (2;201).md",
-    "Holy Quran (2;26).md",
-    "Artemis 1.md",
-    "Honey Bees.md",
-    "Hymenopterans.md",
-    "Holy Quran (16;68-69).md",
-    "Kardashev Scale.md",
-    "Holy Quran (22;65).md"
+    "ressources/notes/Fractal.md",
+    "ressources/notes/Holy Quran (2;201).md",
+    "ressources/notes/Holy Quran (2;26).md",
+    "ressources/notes/Artemis 1.md",
+    "ressources/notes/Honey Bees.md",
+    "ressources/notes/Holy Quran (16;68-69).md",
+    "ressources/images/Kardashev Scale.md"
   ]
 }
