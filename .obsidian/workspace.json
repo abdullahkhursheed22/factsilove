@@ -33,6 +33,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b88e7a3d1cc071f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Holy Quran (21;16).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -180,8 +192,12 @@
   },
   "active": "96bae11a169944a5",
   "lastOpenFiles": [
-    "ASTROPHYSICS.canvas",
+    "Holy Quran (21;16).md",
+    "resources/notes/Holy Quran (2;201).md",
+    "resources/notes/Holy Quran (2;26).md",
     "Between the Galaxies.md",
+    "readme.txt",
+    "ASTROPHYSICS.canvas",
     "NATURE.canvas",
     "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
@@ -208,8 +224,6 @@
     "resources/notes/Hymenopterans.md",
     "resources/notes/Honey Bees.md",
     "resources/notes/Holy Quran (55;5).md",
-    "resources/notes/Holy Quran (42;49).md",
-    "resources/notes/Holy Quran (2;26).md",
     "resources/notes",
     "resources/images/worms-ribbon-worm.jpg",
     "resources/images/worms-earthworm.jpg",

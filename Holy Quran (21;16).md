@@ -1,0 +1,1 @@
+We have not created the heavens and the earth and all that is between them in mere idle play.
