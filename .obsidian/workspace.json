@@ -11,15 +11,31 @@
             "id": "01bfd8e49bbb4b39",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ASTROPHYSICS.canvas",
+                "viewState": {
+                  "x": -820.5,
+                  "y": -621.5,
+                  "zoom": -1.3981614752965932
+                }
+              }
+            }
+          },
+          {
+            "id": "96bae11a169944a5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Between the Galaxies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Between the Galaxies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Between the Galaxies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Between the Galaxies.md"
               }
             }
           },
@@ -162,9 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01bfd8e49bbb4b39",
+  "active": "96bae11a169944a5",
   "lastOpenFiles": [
     "ASTROPHYSICS.canvas",
+    "Between the Galaxies.md",
+    "NATURE.canvas",
+    "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
     "resources/videos/planets-between-earth-and-moon.mp4",
     "resources/videos",
@@ -191,7 +210,6 @@
     "resources/notes/Holy Quran (55;5).md",
     "resources/notes/Holy Quran (42;49).md",
     "resources/notes/Holy Quran (2;26).md",
-    "resources/notes/Holy Quran (2;201).md",
     "resources/notes",
     "resources/images/worms-ribbon-worm.jpg",
     "resources/images/worms-earthworm.jpg",
@@ -207,8 +225,6 @@
     "resources/GIFs",
     "resources",
     "ISLAM.canvas",
-    "HUMANS.canvas",
-    "NATURE.canvas",
     "obsidian-git-sync",
     "new 1.txt",
     "~$Nature.canvas",
