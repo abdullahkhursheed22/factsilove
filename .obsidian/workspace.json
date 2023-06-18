@@ -8,11 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fa41ec8d8a2adae",
+            "id": "01bfd8e49bbb4b39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "ASTROPHYSICS.canvas",
+                "viewState": {
+                  "x": -820.5,
+                  "y": -621.5,
+                  "zoom": -1.3981614752965932
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ASTROPHYSICS.canvas"
+              }
             }
           },
           {
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fa41ec8d8a2adae",
+  "active": "01bfd8e49bbb4b39",
   "lastOpenFiles": [
     "ISLAM.canvas",
     "Subterranean London.md",
