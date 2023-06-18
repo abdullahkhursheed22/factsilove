@@ -8,18 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01bfd8e49bbb4b39",
+            "id": "7d6a03a0bdc684f7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ASTROPHYSICS.canvas",
-                "viewState": {
-                  "x": -779.7730822057705,
-                  "y": -594.4340387234906,
-                  "zoom": -1.3981614752965932
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ASTROPHYSICS.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9066879c87eec66",
+  "active": "7d6a03a0bdc684f7",
   "lastOpenFiles": [
-    "resources/notes/Between the Galaxies.md",
     "ASTROPHYSICS.canvas",
+    "HUMANS.canvas",
+    "resources/notes/Between the Galaxies.md",
     "resources/images/rogue-star.jpg",
     "resources/images/universe-expansion.jpg",
     "resources/images/gravitational-lensing.jpg",
@@ -178,7 +168,6 @@
     "resources/notes/Holy Quran (2;26).md",
     "readme.txt",
     "NATURE.canvas",
-    "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
     "resources/videos/planets-between-earth-and-moon.mp4",
     "resources/videos",
