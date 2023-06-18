@@ -15,9 +15,9 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -820.5,
-                  "y": -621.5,
-                  "zoom": -1.3981614752965932
+                  "x": 168.65099443941386,
+                  "y": -1251.73298548174,
+                  "zoom": 0.2685051913700733
                 }
               }
             }
@@ -33,21 +33,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8b88e7a3d1cc071f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holy Quran (21;16).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Between the Galaxies.md",
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Between the Galaxies.md",
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Between the Galaxies.md"
+                "file": "ASTROPHYSICS.canvas"
               }
             }
           },
@@ -190,12 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96bae11a169944a5",
+  "active": "01bfd8e49bbb4b39",
   "lastOpenFiles": [
+    "Between the Galaxies.md",
+    "rogue-star.jpg",
+    "universe-expansion.jpg",
+    "gravitational-lensing.jpg",
+    "Holy Quran (45;60).md",
     "Holy Quran (21;16).md",
     "resources/notes/Holy Quran (2;201).md",
     "resources/notes/Holy Quran (2;26).md",
-    "Between the Galaxies.md",
     "readme.txt",
     "ASTROPHYSICS.canvas",
     "NATURE.canvas",
@@ -222,8 +213,6 @@
     "resources/notes/James Webb Space Telescope.md",
     "resources/notes/Io.md",
     "resources/notes/Hymenopterans.md",
-    "resources/notes/Honey Bees.md",
-    "resources/notes/Holy Quran (55;5).md",
     "resources/notes",
     "resources/images/worms-ribbon-worm.jpg",
     "resources/images/worms-earthworm.jpg",
@@ -232,9 +221,6 @@
     "resources/images/woodpecker-tongue.jpg",
     "resources/images/visible-planets.jpg",
     "resources/images/titan.jpg",
-    "resources/images/titan-surface.jpg",
-    "resources/images/spacetime-curvature.jpg",
-    "resources/images/solar-system-size-2.jpg",
     "resources/images",
     "resources/GIFs",
     "resources",

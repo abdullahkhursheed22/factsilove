@@ -76,7 +76,13 @@
 		{"type":"file","file":"resources/images/kuiper-belt-3.jpeg","id":"67a517d80c4edfdd","x":-467,"y":-1382,"width":164,"height":92,"color":"5"},
 		{"type":"file","file":"resources/notes/CMBR.md","id":"6548d5843bdd6c36","x":-473,"y":284,"width":187,"height":92,"color":"6"},
 		{"type":"file","file":"resources/images/last-scattering-surface.jpg","id":"38a58933c7ad1acb","x":-203,"y":219,"width":103,"height":97,"color":"5"},
-		{"type":"file","file":"resources/images/cmbr.jpg","id":"c2df264a7fd2b654","x":-229,"y":365,"width":149,"height":75,"color":"5"}
+		{"type":"file","file":"resources/images/cmbr.jpg","id":"c2df264a7fd2b654","x":-229,"y":365,"width":149,"height":75,"color":"5"},
+		{"id":"344fe3fdadef7e51","x":-232,"y":-1601,"width":394,"height":219,"color":"6","type":"file","file":"Between the Galaxies.md"},
+		{"id":"b2c70217fbbd8fdd","x":250,"y":-1537,"width":138,"height":91,"color":"5","type":"file","file":"gravitational-lensing.jpg"},
+		{"id":"01e1556a555b9fb9","x":249,"y":-1410,"width":139,"height":90,"color":"5","type":"file","file":"universe-expansion.jpg"},
+		{"id":"e71c053e8c261d02","x":240,"y":-1664,"width":148,"height":83,"color":"5","type":"file","file":"rogue-star.jpg"},
+		{"id":"5611a913dd70ed81","x":-258,"y":-1288,"width":335,"height":156,"color":"1","type":"file","file":"Holy Quran (21;16).md"},
+		{"id":"1ba6e42fa8d1ba1c","x":100,"y":-1275,"width":360,"height":130,"color":"1","type":"file","file":"Holy Quran (45;60).md"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},
@@ -145,6 +151,9 @@
 		{"id":"d81c938bfb1ea5b2","fromNode":"ed38ba94f314052a","fromSide":"right","toNode":"42f5e52d302eb747","toSide":"left"},
 		{"id":"39c1edbee04d2378","fromNode":"ed38ba94f314052a","fromSide":"bottom","toNode":"5fe4f7ddc23b0ff7","toSide":"top"},
 		{"id":"cd98b28ec349b36a","fromNode":"6548d5843bdd6c36","fromSide":"right","toNode":"38a58933c7ad1acb","toSide":"left"},
-		{"id":"209b3cd0fc0ce281","fromNode":"6548d5843bdd6c36","fromSide":"right","toNode":"c2df264a7fd2b654","toSide":"left"}
+		{"id":"209b3cd0fc0ce281","fromNode":"6548d5843bdd6c36","fromSide":"right","toNode":"c2df264a7fd2b654","toSide":"left"},
+		{"id":"8798750fe3efafe6","fromNode":"344fe3fdadef7e51","fromSide":"right","toNode":"e71c053e8c261d02","toSide":"left"},
+		{"id":"431061581da900fe","fromNode":"344fe3fdadef7e51","fromSide":"right","toNode":"b2c70217fbbd8fdd","toSide":"left"},
+		{"id":"0d192b7d96c7bb2b","fromNode":"344fe3fdadef7e51","fromSide":"right","toNode":"01e1556a555b9fb9","toSide":"left"}
 	]
 }
