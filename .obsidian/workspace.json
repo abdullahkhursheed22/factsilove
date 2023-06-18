@@ -15,22 +15,10 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": 168.65099443941386,
-                  "y": -1251.73298548174,
-                  "zoom": 0.2685051913700733
+                  "x": -779.7730822057705,
+                  "y": -594.4340387234906,
+                  "zoom": -1.3981614752965932
                 }
-              }
-            }
-          },
-          {
-            "id": "96bae11a169944a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Between the Galaxies.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -177,18 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01bfd8e49bbb4b39",
+  "active": "d9066879c87eec66",
   "lastOpenFiles": [
-    "Between the Galaxies.md",
-    "rogue-star.jpg",
-    "universe-expansion.jpg",
-    "gravitational-lensing.jpg",
-    "Holy Quran (45;60).md",
-    "Holy Quran (21;16).md",
+    "resources/notes/Between the Galaxies.md",
+    "ASTROPHYSICS.canvas",
+    "resources/images/rogue-star.jpg",
+    "resources/images/universe-expansion.jpg",
+    "resources/images/gravitational-lensing.jpg",
+    "resources/notes/Holy Quran (45;60).md",
+    "resources/notes/Holy Quran (21;16).md",
     "resources/notes/Holy Quran (2;201).md",
     "resources/notes/Holy Quran (2;26).md",
     "readme.txt",
-    "ASTROPHYSICS.canvas",
     "NATURE.canvas",
     "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
