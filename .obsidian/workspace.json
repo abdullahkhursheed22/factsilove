@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9066879c87eec66",
+  "active": "ea70f075f410604b",
   "lastOpenFiles": [
     "resources/notes/Some Cool Satellites.md",
     "ASTROPHYSICS.canvas",
