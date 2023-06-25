@@ -1,0 +1,1 @@
+And your Lord inspired the bee (saying): ‘Make your home in the mountains, and on the trees and the trellises that they erect. Then eat from every (kind of) fruit and follow meekly the ways of your Lord.’ There issues from its bellies a juice of diverse hues, in which there is a cure for the people. There is indeed a sign in that for a people who reflect.

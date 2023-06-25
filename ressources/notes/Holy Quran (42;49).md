@@ -1,1 +1,0 @@
-To Allah belongs the dominion of the heavens and the earth; He creates what he wills.

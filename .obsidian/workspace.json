@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fa41ec8d8a2adae",
+            "id": "29940c24c9176545",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,8 +16,8 @@
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
                   "x": -820.5,
-                  "y": -621.5,
-                  "zoom": -1.4224432662367246
+                  "y": -818,
+                  "zoom": -1.6252850729281605
                 }
               }
             }
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,54 +166,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fa41ec8d8a2adae",
+  "active": "ea70f075f410604b",
   "lastOpenFiles": [
-    "NATURE.canvas",
-    "HUMANS.canvas",
+    "resources/notes/Some Cool Satellites.md",
     "ASTROPHYSICS.canvas",
-    "ressources/images/woodpecker.jpg",
-    "ressources/notes/Vulcan.md",
-    "ressources/images/titan.jpg",
-    "ressources/notes/Subterranean London.md",
-    "ressources/images/sl9-impact-site.jpg",
-    "ressources/notes/Neptune.md",
-    "ressources/notes/Hymenopterans.md",
-    "ressources/notes/CMBR.md",
-    "ressources/notes/4.md",
-    "ressources/notes/Holy Quran (22;65).md",
-    "ressources/notes",
-    "ressources/images/rings-jupiter.jpg",
-    "ressources/images/retroreflector-sites.jpg",
-    "ressources/GIFs",
-    "ressources/video/planets-between-earth-and-moon.mp4",
-    "ressources/video",
-    "ressources/images/oort-cloud.jpg",
-    "ressources/images/last-scattering-surface.jpg",
-    "ressources/images/kuiper-belt-3.jpeg",
-    "ressources/images/jwst.jpg",
-    "ressources/images/io.jpg",
+    "resources/GIFs/isro-launch.gif",
+    "resources/images/dove-imagery-5.jpg",
+    "resources/images/dove-imagery-4.jpg",
+    "resources/images/dove-imagery-3.jpg",
+    "resources/images/dove-imagery-2.jpg",
+    "resources/images/dove-imagery-1.jpg",
+    "resources/GIFs/dove-2.gif",
+    "resources/images/dove.jpg",
+    "resources/GIFs/starlink-2.gif",
+    "resources/images/starlink.png",
+    "HUMANS.canvas",
+    "resources/notes/Between the Galaxies.md",
+    "resources/notes/Holy Quran (45;60).md",
+    "resources/notes/Holy Quran (21;16).md",
+    "resources/notes/Holy Quran (2;201).md",
+    "resources/notes/Holy Quran (2;26).md",
+    "readme.txt",
+    "NATURE.canvas",
+    "conflict-files-obsidian-git.md",
+    "resources/videos/planets-between-earth-and-moon.mp4",
+    "resources/videos",
+    "resources/notes/Yucatan Peninsula.md",
+    "resources/notes/Worms.md",
+    "resources/notes/Woodpecker.md",
+    "resources/notes/Vulcan.md",
+    "resources/notes/The Pillars of Creation.md",
+    "resources/notes/Subterranean London.md",
+    "resources/notes/Size of the Solar System.md",
+    "resources/notes/Shrike.md",
+    "resources/notes/Shoemaker–Levy 9.md",
+    "resources/notes/Saturn.md",
+    "resources/notes/Rings of the Solar System.md",
+    "resources/notes/Neptune.md",
+    "resources/notes/Moons of the Solar System.md",
+    "resources/notes/Microbes.md",
+    "resources/notes/Lunar Laser Ranging.md",
+    "resources/notes/Jupiter.md",
+    "resources/notes/James Webb Space Telescope.md",
+    "resources/notes/Io.md",
+    "resources/notes",
+    "resources/images",
+    "resources/GIFs",
+    "resources",
     "ISLAM.canvas",
-    "Satellites.md",
-    "ressources/notes/Compound Eyes.md",
-    "ressources/notes/Army Ant Raids.md",
-    "test.md",
     "obsidian-git-sync",
-    "ressources/notes/Size of the Solar System.md",
-    "ressources/notes/Earth-Moon Distance.md",
-    "ressources/notes/Saturn.md",
-    "ressources/notes/Yucatan Peninsula.md",
-    "ressources/notes/Arrhenotoky.md",
-    "ressources/notes/Ant Wars.md",
-    "new1.md",
     "new 1.txt",
     "~$Nature.canvas",
-    "Nature.canvas",
-    "ressources/notes/Fractal.md",
-    "ressources/notes/Holy Quran (2;201).md",
-    "ressources/notes/Holy Quran (2;26).md",
-    "ressources/notes/Artemis 1.md",
-    "ressources/notes/Honey Bees.md",
-    "ressources/notes/Holy Quran (16;68-69).md",
-    "ressources/images/Kardashev Scale.md"
+    "Nature.canvas"
   ]
 }

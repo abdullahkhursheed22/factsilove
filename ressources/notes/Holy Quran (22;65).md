@@ -1,1 +1,0 @@
-And He holds the sky so as it cannot fall on the earth except with His permission. Surely Allah is Very-Kind to the people, Very-Merciful.

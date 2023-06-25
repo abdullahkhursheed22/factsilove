@@ -1,1 +1,0 @@
-Our Lord! Grant us the good of this world and the Hereafter, and protect us from the torment of the Fire.

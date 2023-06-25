@@ -1,1 +1,0 @@
-Verily, Allah is not ashamed to set forth the parable even of a mosquito or so much more when it is bigger (or less when it is smaller) than it.
