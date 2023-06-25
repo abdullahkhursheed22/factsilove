@@ -8,11 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d6a03a0bdc684f7",
+            "id": "527c9d4fc6deca7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Some Cool Satellites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29940c24c9176545",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ASTROPHYSICS.canvas",
+                "viewState": {
+                  "x": -820.5,
+                  "y": -621.5,
+                  "zoom": -1.3981614752965932
+                }
+              }
             }
           }
         ]
@@ -89,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Some Cool Satellites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Some Cool Satellites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Some Cool Satellites.md"
+              }
             }
           },
           {
@@ -154,9 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d6a03a0bdc684f7",
+  "active": "527c9d4fc6deca7f",
   "lastOpenFiles": [
     "ASTROPHYSICS.canvas",
+    "Some Cool Satellites.md",
     "HUMANS.canvas",
     "resources/notes/Between the Galaxies.md",
     "resources/images/rogue-star.jpg",
@@ -189,7 +213,6 @@
     "resources/notes/Jupiter.md",
     "resources/notes/James Webb Space Telescope.md",
     "resources/notes/Io.md",
-    "resources/notes/Hymenopterans.md",
     "resources/notes",
     "resources/images/worms-ribbon-worm.jpg",
     "resources/images/worms-earthworm.jpg",
