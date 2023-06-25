@@ -27,9 +27,9 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -1612.1375448659035,
-                  "y": -1816.2916858534456,
-                  "zoom": -0.2919517395948274
+                  "x": -820.5,
+                  "y": -818,
+                  "zoom": -1.6252850729281605
                 }
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dove.jpg",
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dove.jpg",
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dove.jpg"
+                "file": "ASTROPHYSICS.canvas"
               }
             }
           },

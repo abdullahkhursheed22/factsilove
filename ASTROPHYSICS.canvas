@@ -91,9 +91,9 @@
 		{"id":"c194cd8f6a42f9c7","x":-1630,"y":-1927,"width":121,"height":91,"color":"5","type":"file","file":"dove-imagery-3.jpg"},
 		{"id":"ddc074654a9063a0","x":-1628,"y":-1807,"width":121,"height":91,"color":"5","type":"file","file":"dove-imagery-4.jpg"},
 		{"id":"06c0213e03f16fcd","x":-1626,"y":-1669,"width":119,"height":89,"color":"5","type":"file","file":"dove-imagery-5.jpg"},
-		{"id":"874ade1d7d1928a9","x":-2096,"y":-1835,"width":146,"height":82,"color":"5","type":"file","file":"dove-2.gif"},
-		{"id":"d946516a0f7a3e71","x":-1917,"y":-1834,"width":142,"height":80,"color":"5","type":"file","file":"isro-launch.gif"},
-		{"id":"38ce7156cb1a6871","x":-2272,"y":-1836,"width":148,"height":83,"color":"5","type":"file","file":"dove.jpg"}
+		{"id":"874ade1d7d1928a9","x":-2193,"y":-1837,"width":146,"height":82,"color":"5","type":"file","file":"dove-2.gif"},
+		{"id":"d946516a0f7a3e71","x":-2014,"y":-1836,"width":142,"height":80,"color":"5","type":"file","file":"isro-launch.gif"},
+		{"id":"38ce7156cb1a6871","x":-2369,"y":-1838,"width":148,"height":83,"color":"5","type":"file","file":"dove.jpg"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},
