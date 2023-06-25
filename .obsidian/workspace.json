@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some Cool Satellites.md",
+                "file": "Satellites.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some Cool Satellites.md",
+                "file": "Satellites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Some Cool Satellites.md",
+                "file": "Satellites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some Cool Satellites.md"
+                "file": "Satellites.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "527c9d4fc6deca7f",
   "lastOpenFiles": [
+    "dove.jpg",
+    "Planet_Auto3E.jpeg",
+    "planet-dove.jpg",
     "ASTROPHYSICS.canvas",
-    "Some Cool Satellites.md",
+    "Satellites.md",
     "HUMANS.canvas",
     "resources/notes/Between the Galaxies.md",
     "resources/images/rogue-star.jpg",
@@ -219,8 +222,6 @@
     "resources/images/worms-bloodworm.jpg",
     "resources/images/woodpecker.jpg",
     "resources/images/woodpecker-tongue.jpg",
-    "resources/images/visible-planets.jpg",
-    "resources/images/titan.jpg",
     "resources/images",
     "resources/GIFs",
     "resources",
