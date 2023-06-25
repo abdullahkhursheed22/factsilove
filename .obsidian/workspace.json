@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some Cool Satellites.md",
+                "file": "resources/notes/Some Cool Satellites.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,20 +178,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29940c24c9176545",
+  "active": "d9066879c87eec66",
   "lastOpenFiles": [
-    "Some Cool Satellites.md",
+    "resources/notes/Some Cool Satellites.md",
     "ASTROPHYSICS.canvas",
-    "isro-launch.gif",
-    "dove-imagery-5.jpg",
-    "dove-imagery-4.jpg",
-    "dove-imagery-3.jpg",
-    "dove-imagery-2.jpg",
-    "dove-imagery-1.jpg",
-    "dove-2.gif",
-    "dove.jpg",
-    "starlink-2.gif",
-    "starlink.png",
+    "resources/GIFs/isro-launch.gif",
+    "resources/images/dove-imagery-5.jpg",
+    "resources/images/dove-imagery-4.jpg",
+    "resources/images/dove-imagery-3.jpg",
+    "resources/images/dove-imagery-2.jpg",
+    "resources/images/dove-imagery-1.jpg",
+    "resources/GIFs/dove-2.gif",
+    "resources/images/dove.jpg",
+    "resources/GIFs/starlink-2.gif",
+    "resources/images/starlink.png",
     "HUMANS.canvas",
     "resources/notes/Between the Galaxies.md",
     "resources/notes/Holy Quran (45;60).md",
