@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Satellites.md",
+                "file": "Some Cool Satellites.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,14 +27,15 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -820.5,
-                  "y": -621.5,
-                  "zoom": -1.3981614752965932
+                  "x": -1612.1375448659035,
+                  "y": -1816.2916858534456,
+                  "zoom": -0.2919517395948274
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Satellites.md",
+                "file": "dove.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Satellites.md",
+                "file": "dove.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Satellites.md"
+                "file": "dove.jpg"
               }
             }
           },
@@ -177,18 +178,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "527c9d4fc6deca7f",
+  "active": "29940c24c9176545",
   "lastOpenFiles": [
-    "dove.jpg",
-    "Planet_Auto3E.jpeg",
-    "planet-dove.jpg",
+    "Some Cool Satellites.md",
     "ASTROPHYSICS.canvas",
-    "Satellites.md",
+    "isro-launch.gif",
+    "dove-imagery-5.jpg",
+    "dove-imagery-4.jpg",
+    "dove-imagery-3.jpg",
+    "dove-imagery-2.jpg",
+    "dove-imagery-1.jpg",
+    "dove-2.gif",
+    "dove.jpg",
+    "starlink-2.gif",
+    "starlink.png",
     "HUMANS.canvas",
     "resources/notes/Between the Galaxies.md",
-    "resources/images/rogue-star.jpg",
-    "resources/images/universe-expansion.jpg",
-    "resources/images/gravitational-lensing.jpg",
     "resources/notes/Holy Quran (45;60).md",
     "resources/notes/Holy Quran (21;16).md",
     "resources/notes/Holy Quran (2;201).md",
@@ -217,11 +222,6 @@
     "resources/notes/James Webb Space Telescope.md",
     "resources/notes/Io.md",
     "resources/notes",
-    "resources/images/worms-ribbon-worm.jpg",
-    "resources/images/worms-earthworm.jpg",
-    "resources/images/worms-bloodworm.jpg",
-    "resources/images/woodpecker.jpg",
-    "resources/images/woodpecker-tongue.jpg",
     "resources/images",
     "resources/GIFs",
     "resources",
