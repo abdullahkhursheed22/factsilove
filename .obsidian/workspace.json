@@ -21,6 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "8594139c153f3916",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "NATURE.canvas",
+                "viewState": {
+                  "x": 1115.5,
+                  "y": -689,
+                  "zoom": -1.3591596883513994
+                }
+              }
+            }
           }
         ]
       }
@@ -76,8 +91,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,9 +182,10 @@
   },
   "active": "29940c24c9176545",
   "lastOpenFiles": [
+    "NATURE.canvas",
+    "ASTROPHYSICS.canvas",
     "readme.md",
     "resources/notes/Some Cool Satellites.md",
-    "ASTROPHYSICS.canvas",
     "resources/GIFs/isro-launch.gif",
     "resources/images/dove-imagery-5.jpg",
     "resources/images/dove-imagery-4.jpg",
@@ -188,7 +203,6 @@
     "resources/notes/Holy Quran (2;201).md",
     "resources/notes/Holy Quran (2;26).md",
     "readme.txt",
-    "NATURE.canvas",
     "conflict-files-obsidian-git.md",
     "resources/videos/planets-between-earth-and-moon.mp4",
     "resources/videos",
@@ -209,7 +223,6 @@
     "resources/notes/Lunar Laser Ranging.md",
     "resources/notes/Jupiter.md",
     "resources/notes/James Webb Space Telescope.md",
-    "resources/notes/Io.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
