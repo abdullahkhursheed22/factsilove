@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9766eaba73376f",
+        "id": "d22210c45d9974a6",
         "type": "tabs",
         "children": [
           {
-            "id": "4306ca4f36ca9ab0",
+            "id": "458feefc43882223",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,8 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4306ca4f36ca9ab0",
+  "active": "458feefc43882223",
   "lastOpenFiles": [
+    "resources/notes/Holy Quran (55;5).md",
+    "resources/notes/Holy Quran (45;60).md",
+    "resources/notes/Holy Quran (42;49).md",
+    "resources/notes/Holy Quran (22;65).md",
+    "resources/notes/Holy Quran (21;16).md",
+    "resources/notes/Holy Quran (16;68-69).md",
+    "resources/notes/Holy Quran (2;201).md",
+    "resources/notes/Holy Quran (2;26).md",
     "ASTROPHYSICS.canvas",
     "NATURE.canvas",
     "readme.md",
@@ -172,10 +180,6 @@
     "resources/images/starlink.png",
     "HUMANS.canvas",
     "resources/notes/Between the Galaxies.md",
-    "resources/notes/Holy Quran (45;60).md",
-    "resources/notes/Holy Quran (21;16).md",
-    "resources/notes/Holy Quran (2;201).md",
-    "resources/notes/Holy Quran (2;26).md",
     "readme.txt",
     "conflict-files-obsidian-git.md",
     "resources/videos/planets-between-earth-and-moon.mp4",
@@ -194,9 +198,6 @@
     "resources/notes/Neptune.md",
     "resources/notes/Moons of the Solar System.md",
     "resources/notes/Microbes.md",
-    "resources/notes/Lunar Laser Ranging.md",
-    "resources/notes/Jupiter.md",
-    "resources/notes/James Webb Space Telescope.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
