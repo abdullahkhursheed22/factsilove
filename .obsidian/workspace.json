@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4194dbb85509af4",
+        "id": "9f9766eaba73376f",
         "type": "tabs",
         "children": [
           {
-            "id": "29940c24c9176545",
+            "id": "4306ca4f36ca9ab0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ASTROPHYSICS.canvas",
-                "viewState": {
-                  "x": -820.5,
-                  "y": -818,
-                  "zoom": -1.6252850729281605
-                }
-              }
-            }
-          },
-          {
-            "id": "8594139c153f3916",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "NATURE.canvas",
-                "viewState": {
-                  "x": 1115.5,
-                  "y": -689,
-                  "zoom": -1.3591596883513994
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ASTROPHYSICS.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -180,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29940c24c9176545",
+  "active": "4306ca4f36ca9ab0",
   "lastOpenFiles": [
-    "NATURE.canvas",
     "ASTROPHYSICS.canvas",
+    "NATURE.canvas",
     "readme.md",
     "resources/notes/Some Cool Satellites.md",
     "resources/GIFs/isro-launch.gif",
