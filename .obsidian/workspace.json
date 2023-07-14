@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4194dbb85509af4",
+        "id": "d22210c45d9974a6",
         "type": "tabs",
         "children": [
           {
-            "id": "29940c24c9176545",
+            "id": "458feefc43882223",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ASTROPHYSICS.canvas",
-                "viewState": {
-                  "x": -820.5,
-                  "y": -818,
-                  "zoom": -1.6252850729281605
-                }
-              }
-            }
-          },
-          {
-            "id": "8594139c153f3916",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "NATURE.canvas",
-                "viewState": {
-                  "x": 1115.5,
-                  "y": -689,
-                  "zoom": -1.3591596883513994
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ASTROPHYSICS.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -180,10 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29940c24c9176545",
+  "active": "458feefc43882223",
   "lastOpenFiles": [
-    "NATURE.canvas",
+    "resources/notes/Ant Wars.md",
     "ASTROPHYSICS.canvas",
+    "resources/notes/Holy Quran (55;5).md",
+    "resources/notes/Holy Quran (45;60).md",
+    "resources/notes/Holy Quran (42;49).md",
+    "resources/notes/Holy Quran (22;65).md",
+    "resources/notes/Holy Quran (21;16).md",
+    "resources/notes/Holy Quran (16;68-69).md",
+    "resources/notes/Holy Quran (2;201).md",
+    "resources/notes/Holy Quran (2;26).md",
+    "NATURE.canvas",
     "readme.md",
     "resources/notes/Some Cool Satellites.md",
     "resources/GIFs/isro-launch.gif",
@@ -198,10 +181,6 @@
     "resources/images/starlink.png",
     "HUMANS.canvas",
     "resources/notes/Between the Galaxies.md",
-    "resources/notes/Holy Quran (45;60).md",
-    "resources/notes/Holy Quran (21;16).md",
-    "resources/notes/Holy Quran (2;201).md",
-    "resources/notes/Holy Quran (2;26).md",
     "readme.txt",
     "conflict-files-obsidian-git.md",
     "resources/videos/planets-between-earth-and-moon.mp4",
@@ -219,10 +198,6 @@
     "resources/notes/Rings of the Solar System.md",
     "resources/notes/Neptune.md",
     "resources/notes/Moons of the Solar System.md",
-    "resources/notes/Microbes.md",
-    "resources/notes/Lunar Laser Ranging.md",
-    "resources/notes/Jupiter.md",
-    "resources/notes/James Webb Space Telescope.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
