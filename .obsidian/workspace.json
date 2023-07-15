@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "458feefc43882223",
+            "id": "e00f1d597d24bcb0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458feefc43882223",
+  "active": "e00f1d597d24bcb0",
   "lastOpenFiles": [
-    "resources/notes/Ant Wars.md",
+    "well then.md",
     "ASTROPHYSICS.canvas",
+    "resources/notes/Ant Wars.md",
     "resources/notes/Holy Quran (55;5).md",
     "resources/notes/Holy Quran (45;60).md",
     "resources/notes/Holy Quran (42;49).md",
@@ -196,8 +197,6 @@
     "resources/notes/Shoemaker–Levy 9.md",
     "resources/notes/Saturn.md",
     "resources/notes/Rings of the Solar System.md",
-    "resources/notes/Neptune.md",
-    "resources/notes/Moons of the Solar System.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
