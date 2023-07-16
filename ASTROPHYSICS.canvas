@@ -13,7 +13,7 @@
 		{"type":"file","file":"resources/images/planets-between-earth-and-moon.jpg","id":"99a358dd4f637cca","x":-1475,"y":-666,"width":164,"height":92,"color":"5"},
 		{"type":"file","file":"resources/videos/planets-between-earth-and-moon.mp4","id":"e131ca40f2e6597d","x":-1288,"y":-672,"width":184,"height":104,"color":"5"},
 		{"type":"file","file":"resources/images/kardashev-scale-6.png","id":"ba256465b12dfa2d","x":-313,"y":-720,"width":196,"height":96,"color":"5"},
-		{"type":"file","file":"resources/images/Kardashev Scale.md","id":"c57de212650c33de","x":-1065,"y":-689,"width":592,"height":590,"color":"6"},
+		{"type":"file","file":"resources/notes/Kardashev Scale.md","id":"c57de212650c33de","x":-1065,"y":-689,"width":592,"height":590,"color":"6"},
 		{"type":"file","file":"resources/images/kardashev-scale-7.png","id":"4c25d51ae6e1f153","x":-313,"y":-578,"width":196,"height":96,"color":"5"},
 		{"type":"file","file":"resources/images/kardashev-scale-8.png","id":"4b52f4f616aec8bb","x":-313,"y":-443,"width":197,"height":96,"color":"5"},
 		{"type":"file","file":"resources/images/kardashev-scale-9.png","id":"14a42fbcdc584cdb","x":-313,"y":-302,"width":197,"height":96,"color":"5"},
