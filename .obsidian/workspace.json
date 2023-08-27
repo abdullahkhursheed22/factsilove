@@ -8,34 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96f9351e781a6d62",
+            "id": "41b0606a0258d900",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ASTROPHYSICS.canvas",
-                "viewState": {
-                  "x": -820.5,
-                  "y": -818,
-                  "zoom": -1.6252850729281605
-                }
-              }
-            }
-          },
-          {
-            "id": "b050c50ece046153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Large Hadron Collider.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Large Hadron Collider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Large Hadron Collider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Large Hadron Collider.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,13 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b050c50ece046153",
+  "active": "41b0606a0258d900",
   "lastOpenFiles": [
+    "readme.md",
+    "LICENSE.md",
     "ASTROPHYSICS.canvas",
-    "Large Hadron Collider.md",
+    "resources/images/large-hardon-collider-2.jpg",
+    "resources/images/large-hardon-collider-1.jpg",
+    "resources/notes/Large Hadron Collider.md",
+    "resources/images/future-circular-collider.jpg",
+    "resources/images/large-hardon-collider-3.jpg",
     "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
-    "readme.md",
     "resources/notes/Some Cool Satellites.md",
     "resources/GIFs/isro-launch.gif",
     "resources/images/dove-imagery-5.jpg",
@@ -192,10 +173,6 @@
     "resources/images/dove-imagery-3.jpg",
     "resources/images/dove-imagery-2.jpg",
     "resources/images/dove-imagery-1.jpg",
-    "resources/GIFs/dove-2.gif",
-    "resources/images/dove.jpg",
-    "resources/GIFs/starlink-2.gif",
-    "resources/images/starlink.png",
     "resources/notes/Between the Galaxies.md",
     "resources/notes/Holy Quran (45;60).md",
     "resources/notes/Holy Quran (21;16).md",
@@ -220,7 +197,6 @@
     "resources/notes/Moons of the Solar System.md",
     "resources/notes/Microbes.md",
     "resources/notes/Lunar Laser Ranging.md",
-    "resources/notes/Jupiter.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
