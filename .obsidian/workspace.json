@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41b0606a0258d900",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "06264020e723ade9",
             "type": "leaf",
             "state": {
@@ -24,6 +16,21 @@
                 "file": "Laser Interferometer Gravitational-Wave Observatory.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1514be9bf031aca3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ASTROPHYSICS.canvas",
+                "viewState": {
+                  "x": -810.203927488108,
+                  "y": -1910.8121006113815,
+                  "zoom": 0.04138159373850592
+                }
               }
             }
           }
@@ -102,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laser Interferometer Gravitational-Wave Observatory.md",
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laser Interferometer Gravitational-Wave Observatory.md",
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laser Interferometer Gravitational-Wave Observatory.md"
+                "file": "ASTROPHYSICS.canvas"
               }
             }
           },
@@ -171,9 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06264020e723ade9",
+  "active": "1514be9bf031aca3",
   "lastOpenFiles": [
     "Laser Interferometer Gravitational-Wave Observatory.md",
+    "ligo-mechanism.jpg",
+    "ligo-dual-detectors.jpg",
+    "ligo.jpg",
+    "Holy Quran (52;9).md",
+    "resources/notes/Holy Quran (2;26).md",
     "resources/notes/Large Hadron Collider.md",
     "readme.md",
     "LICENSE.md",
@@ -188,14 +200,10 @@
     "resources/GIFs/isro-launch.gif",
     "resources/images/dove-imagery-5.jpg",
     "resources/images/dove-imagery-4.jpg",
-    "resources/images/dove-imagery-3.jpg",
-    "resources/images/dove-imagery-2.jpg",
-    "resources/images/dove-imagery-1.jpg",
     "resources/notes/Between the Galaxies.md",
     "resources/notes/Holy Quran (45;60).md",
     "resources/notes/Holy Quran (21;16).md",
     "resources/notes/Holy Quran (2;201).md",
-    "resources/notes/Holy Quran (2;26).md",
     "readme.txt",
     "NATURE.canvas",
     "resources/videos/planets-between-earth-and-moon.mp4",
@@ -213,8 +221,6 @@
     "resources/notes/Rings of the Solar System.md",
     "resources/notes/Neptune.md",
     "resources/notes/Moons of the Solar System.md",
-    "resources/notes/Microbes.md",
-    "resources/notes/Lunar Laser Ranging.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",

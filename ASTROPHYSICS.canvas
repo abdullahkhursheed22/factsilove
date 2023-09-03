@@ -93,7 +93,8 @@
 		{"type":"file","file":"resources/images/dove-imagery-5.jpg","id":"06c0213e03f16fcd","x":-1626,"y":-1669,"width":119,"height":89,"color":"5"},
 		{"type":"file","file":"resources/GIFs/dove-2.gif","id":"874ade1d7d1928a9","x":-2193,"y":-1837,"width":146,"height":82,"color":"5"},
 		{"type":"file","file":"resources/GIFs/isro-launch.gif","id":"d946516a0f7a3e71","x":-2014,"y":-1836,"width":142,"height":80,"color":"5"},
-		{"type":"file","file":"resources/images/dove.jpg","id":"38ce7156cb1a6871","x":-2369,"y":-1838,"width":148,"height":83,"color":"5"}
+		{"type":"file","file":"resources/images/dove.jpg","id":"38ce7156cb1a6871","x":-2369,"y":-1838,"width":148,"height":83,"color":"5"},
+		{"id":"08ba4c1ff9ddcc1e","x":-1443,"y":-2125,"width":374,"height":325,"type":"file","file":"resources/notes/Large Hadron Collider.md"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},
