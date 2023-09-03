@@ -8,34 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06264020e723ade9",
+            "id": "b51ce04a6427938a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laser Interferometer Gravitational-Wave Observatory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1514be9bf031aca3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ASTROPHYSICS.canvas",
-                "viewState": {
-                  "x": -810.203927488108,
-                  "y": -1910.8121006113815,
-                  "zoom": 0.04138159373850592
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ASTROPHYSICS.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -178,18 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1514be9bf031aca3",
+  "active": "b51ce04a6427938a",
   "lastOpenFiles": [
+    "ASTROPHYSICS.canvas",
+    "resources/notes/Large Hadron Collider.md",
     "Laser Interferometer Gravitational-Wave Observatory.md",
     "ligo-mechanism.jpg",
     "ligo-dual-detectors.jpg",
     "ligo.jpg",
     "Holy Quran (52;9).md",
     "resources/notes/Holy Quran (2;26).md",
-    "resources/notes/Large Hadron Collider.md",
     "readme.md",
     "LICENSE.md",
-    "ASTROPHYSICS.canvas",
     "resources/images/large-hardon-collider-2.jpg",
     "resources/images/large-hardon-collider-1.jpg",
     "resources/images/future-circular-collider.jpg",
