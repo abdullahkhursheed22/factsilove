@@ -16,12 +16,14 @@
             }
           },
           {
-            "id": "e9bf94685bfe1de8",
+            "id": "06264020e723ade9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Laser Interferometer Gravitational-Wave Observatory.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Laser Interferometer Gravitational-Wave Observatory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Laser Interferometer Gravitational-Wave Observatory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Laser Interferometer Gravitational-Wave Observatory.md"
+              }
             }
           },
           {
@@ -165,14 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9bf94685bfe1de8",
+  "active": "06264020e723ade9",
   "lastOpenFiles": [
+    "Laser Interferometer Gravitational-Wave Observatory.md",
+    "resources/notes/Large Hadron Collider.md",
     "readme.md",
     "LICENSE.md",
     "ASTROPHYSICS.canvas",
     "resources/images/large-hardon-collider-2.jpg",
     "resources/images/large-hardon-collider-1.jpg",
-    "resources/notes/Large Hadron Collider.md",
     "resources/images/future-circular-collider.jpg",
     "resources/images/large-hardon-collider-3.jpg",
     "HUMANS.canvas",

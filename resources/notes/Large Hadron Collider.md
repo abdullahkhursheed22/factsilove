@@ -1,5 +1,7 @@
 [[ASTROPHYSICS.canvas|ASTROPHYSICS]]
 
+*Small discoveries require big sacrifices.*
+
 Hadrons, such as protons and neutrons, are particles that are made of quarks.
 
 Until 380,000 years after the Big Bang, the universe was a soup of small particles, like electrons, photons, and quarks. After that, it cooled enough to create hadrons.
