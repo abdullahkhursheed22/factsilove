@@ -154,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51ce04a6427938a",
+  "active": "d9066879c87eec66",
   "lastOpenFiles": [
     "ASTROPHYSICS.canvas",
     "resources/notes/Large Hadron Collider.md",
-    "Laser Interferometer Gravitational-Wave Observatory.md",
-    "ligo-mechanism.jpg",
-    "ligo-dual-detectors.jpg",
-    "ligo.jpg",
-    "Holy Quran (52;9).md",
+    "resources/notes/Laser Interferometer Gravitational-Wave Observatory.md",
+    "resources/images/ligo-mechanism.jpg",
+    "resources/images/ligo-dual-detectors.jpg",
+    "resources/images/ligo.jpg",
+    "resources/notes/Holy Quran (52;9).md",
     "resources/notes/Holy Quran (2;26).md",
     "readme.md",
     "LICENSE.md",
