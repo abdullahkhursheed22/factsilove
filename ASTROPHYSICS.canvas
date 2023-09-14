@@ -103,7 +103,12 @@
 		{"id":"e71db7fc31c821fd","type":"file","file":"resources/images/ligo-dual-detectors.jpg","x":-606,"y":-2001,"width":121,"height":79,"color":"5"},
 		{"id":"fc3a14be985c615d","type":"file","file":"resources/images/ligo.jpg","x":-623,"y":-2124,"width":156,"height":62,"color":"5"},
 		{"id":"8f378d627387845e","type":"file","file":"resources/images/ligo-mechanism.jpg","x":-596,"y":-1854,"width":103,"height":81,"color":"5"},
-		{"id":"40eb0fa5053c514e","type":"file","file":"resources/notes/Holy Quran (52;9).md","x":-906,"y":-2283,"width":385,"height":89,"color":"1"}
+		{"id":"40eb0fa5053c514e","type":"file","file":"resources/notes/Holy Quran (52;9).md","x":-906,"y":-2279,"width":413,"height":87,"color":"1"},
+		{"id":"71ab8f447b7d6e46","x":-428,"y":-2025,"width":340,"height":127,"color":"6","type":"file","file":"resources/notes/Super-Kamiokande.md"},
+		{"id":"3919ae6f2bc513b5","x":13,"y":-2164,"width":128,"height":89,"color":"5","type":"file","file":"resources/images/super-kamiokande-1.jpg"},
+		{"id":"1dd9dd66e196e8f3","x":20,"y":-2019,"width":115,"height":115,"color":"5","type":"file","file":"resources/images/super-kamiokande-2.jpg"},
+		{"id":"04701c54fd2ac95e","x":-3,"y":-1848,"width":161,"height":81,"color":"5","type":"file","file":"resources/images/super-kamiokande-3.jpg"},
+		{"id":"3b5f6d9cb97ca296","x":-430,"y":-2315,"width":345,"height":190,"color":"1","type":"file","file":"resources/notes/Holy Quran (34;3).md"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},
@@ -195,6 +200,10 @@
 		{"id":"213f9279ef557dd7","fromNode":"d0c69bce7301a1e6","fromSide":"right","toNode":"e71db7fc31c821fd","toSide":"left"},
 		{"id":"4cfee74f7a02008c","fromNode":"d0c69bce7301a1e6","fromSide":"right","toNode":"fc3a14be985c615d","toSide":"left"},
 		{"id":"d78f247a2b7c02aa","fromNode":"d0c69bce7301a1e6","fromSide":"right","toNode":"8f378d627387845e","toSide":"left"},
-		{"id":"99379c4c4d476b7d","fromNode":"d0c69bce7301a1e6","fromSide":"top","toNode":"40eb0fa5053c514e","toSide":"bottom"}
+		{"id":"99379c4c4d476b7d","fromNode":"d0c69bce7301a1e6","fromSide":"top","toNode":"40eb0fa5053c514e","toSide":"bottom"},
+		{"id":"7d01757db1397d91","fromNode":"71ab8f447b7d6e46","fromSide":"right","toNode":"1dd9dd66e196e8f3","toSide":"left"},
+		{"id":"7a6b1082997382f1","fromNode":"71ab8f447b7d6e46","fromSide":"right","toNode":"3919ae6f2bc513b5","toSide":"left"},
+		{"id":"4f37a0ec3d922fa6","fromNode":"71ab8f447b7d6e46","fromSide":"right","toNode":"04701c54fd2ac95e","toSide":"left"},
+		{"id":"b522b0fa4bdd9ee1","fromNode":"71ab8f447b7d6e46","fromSide":"top","toNode":"3b5f6d9cb97ca296","toSide":"bottom"}
 	]
 }
