@@ -19,12 +19,8 @@
             "id": "8159e35703267e67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/notes/Super-Kamiokande.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/notes/Super-Kamiokande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/notes/Super-Kamiokande.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "resources/notes/Super-Kamiokande.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9066879c87eec66",
+  "active": "8159e35703267e67",
   "lastOpenFiles": [
-    "resources/images/super-kamiokande-2.jpg",
     "ASTROPHYSICS.canvas",
+    "resources/images/super-kamiokande-2.jpg",
     "resources/notes/Super-Kamiokande.md",
     "resources/images/super-kamiokande-3.jpg",
     "resources/images/super-kamiokande-2.jpg",
@@ -203,7 +195,6 @@
     "resources/images/large-hardon-collider-2.jpg",
     "resources/images/large-hardon-collider-1.jpg",
     "resources/images/future-circular-collider.jpg",
-    "resources/images/large-hardon-collider-3.jpg",
     "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
     "resources/notes/Some Cool Satellites.md",

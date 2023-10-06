@@ -104,11 +104,11 @@
 		{"id":"fc3a14be985c615d","type":"file","file":"resources/images/ligo.jpg","x":-623,"y":-2124,"width":156,"height":62,"color":"5"},
 		{"id":"8f378d627387845e","type":"file","file":"resources/images/ligo-mechanism.jpg","x":-596,"y":-1854,"width":103,"height":81,"color":"5"},
 		{"id":"40eb0fa5053c514e","type":"file","file":"resources/notes/Holy Quran (52;9).md","x":-906,"y":-2279,"width":413,"height":87,"color":"1"},
-		{"id":"71ab8f447b7d6e46","x":-428,"y":-2025,"width":340,"height":127,"color":"6","type":"file","file":"resources/notes/Super-Kamiokande.md"},
-		{"id":"3919ae6f2bc513b5","x":13,"y":-2164,"width":128,"height":89,"color":"5","type":"file","file":"resources/images/super-kamiokande-1.jpg"},
-		{"id":"1dd9dd66e196e8f3","x":20,"y":-2019,"width":115,"height":115,"color":"5","type":"file","file":"resources/images/super-kamiokande-2.jpg"},
-		{"id":"04701c54fd2ac95e","x":-3,"y":-1848,"width":161,"height":81,"color":"5","type":"file","file":"resources/images/super-kamiokande-3.jpg"},
-		{"id":"3b5f6d9cb97ca296","x":-430,"y":-2315,"width":345,"height":190,"color":"1","type":"file","file":"resources/notes/Holy Quran (34;3).md"}
+		{"id":"71ab8f447b7d6e46","type":"file","file":"resources/notes/Super-Kamiokande.md","x":-428,"y":-2025,"width":340,"height":127,"color":"6"},
+		{"id":"3919ae6f2bc513b5","type":"file","file":"resources/images/super-kamiokande-1.jpg","x":13,"y":-2164,"width":128,"height":89,"color":"5"},
+		{"id":"1dd9dd66e196e8f3","type":"file","file":"resources/images/super-kamiokande-2.jpg","x":20,"y":-2019,"width":115,"height":65,"color":"5"},
+		{"id":"04701c54fd2ac95e","type":"file","file":"resources/images/super-kamiokande-3.jpg","x":-3,"y":-1848,"width":161,"height":81,"color":"5"},
+		{"id":"3b5f6d9cb97ca296","type":"file","file":"resources/notes/Holy Quran (34;3).md","x":-430,"y":-2315,"width":345,"height":190,"color":"1"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},
