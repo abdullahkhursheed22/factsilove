@@ -22,9 +22,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5a244c047d2db4ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8159e35703267e67",
+  "active": "5a244c047d2db4ad",
   "lastOpenFiles": [
     "ASTROPHYSICS.canvas",
     "resources/images/super-kamiokande-2.jpg",
