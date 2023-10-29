@@ -108,7 +108,11 @@
 		{"id":"3919ae6f2bc513b5","type":"file","file":"resources/images/super-kamiokande-1.jpg","x":13,"y":-2164,"width":128,"height":89,"color":"5"},
 		{"id":"1dd9dd66e196e8f3","type":"file","file":"resources/images/super-kamiokande-2.jpg","x":20,"y":-2019,"width":115,"height":65,"color":"5"},
 		{"id":"04701c54fd2ac95e","type":"file","file":"resources/images/super-kamiokande-3.jpg","x":-3,"y":-1848,"width":161,"height":81,"color":"5"},
-		{"id":"3b5f6d9cb97ca296","type":"file","file":"resources/notes/Holy Quran (34;3).md","x":-430,"y":-2315,"width":345,"height":190,"color":"1"}
+		{"id":"3b5f6d9cb97ca296","type":"file","file":"resources/notes/Holy Quran (34;3).md","x":-430,"y":-2315,"width":345,"height":190,"color":"1"},
+		{"id":"f98a5058c8932259","x":-18,"y":268,"width":308,"height":240,"color":"6","type":"file","file":"resources/notes/Galaxies in the Sky.md"},
+		{"id":"eab0c07f8a371a11","x":-21,"y":580,"width":314,"height":194,"color":"1","type":"file","file":"resources/notes/Holy Quran 21;33.md"},
+		{"id":"5c199a8bc016165b","x":407,"y":440,"width":117,"height":88,"color":"5","type":"file","file":"resources/images/magellanic-clouds.jpg"},
+		{"id":"fa218cc293704dd8","x":400,"y":301,"width":131,"height":87,"color":"5","type":"file","file":"resources/images/andromeda.jpg"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},
@@ -204,6 +208,9 @@
 		{"id":"7d01757db1397d91","fromNode":"71ab8f447b7d6e46","fromSide":"right","toNode":"1dd9dd66e196e8f3","toSide":"left"},
 		{"id":"7a6b1082997382f1","fromNode":"71ab8f447b7d6e46","fromSide":"right","toNode":"3919ae6f2bc513b5","toSide":"left"},
 		{"id":"4f37a0ec3d922fa6","fromNode":"71ab8f447b7d6e46","fromSide":"right","toNode":"04701c54fd2ac95e","toSide":"left"},
-		{"id":"b522b0fa4bdd9ee1","fromNode":"71ab8f447b7d6e46","fromSide":"top","toNode":"3b5f6d9cb97ca296","toSide":"bottom"}
+		{"id":"b522b0fa4bdd9ee1","fromNode":"71ab8f447b7d6e46","fromSide":"top","toNode":"3b5f6d9cb97ca296","toSide":"bottom"},
+		{"id":"1812117a4fe39eb5","fromNode":"f98a5058c8932259","fromSide":"bottom","toNode":"eab0c07f8a371a11","toSide":"top"},
+		{"id":"b4c0196f25bca736","fromNode":"f98a5058c8932259","fromSide":"right","toNode":"fa218cc293704dd8","toSide":"left"},
+		{"id":"ffa7bbc7096d9d6e","fromNode":"f98a5058c8932259","fromSide":"right","toNode":"5c199a8bc016165b","toSide":"left"}
 	]
 }

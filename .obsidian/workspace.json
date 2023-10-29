@@ -14,33 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "f491a0a48e70a677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Galaxies in the Sky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b291729afe040ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Holy Quran 21;33.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galaxies in the Sky.md",
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Galaxies in the Sky.md",
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Galaxies in the Sky.md"
+                "file": "ASTROPHYSICS.canvas"
               }
             }
           },
@@ -185,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f491a0a48e70a677",
+  "active": "d9066879c87eec66",
   "lastOpenFiles": [
-    "Holy Quran 21;33.md",
-    "Galaxies in the Sky.md",
+    "resources/notes/Holy Quran 21;33.md",
+    "resources/notes/Galaxies in the Sky.md",
+    "resources/images/magellanic-clouds.jpg",
+    "resources/images/andromeda.jpg",
     "ASTROPHYSICS.canvas",
     "resources/images/super-kamiokande-2.jpg",
     "resources/notes/Super-Kamiokande.md",
@@ -207,8 +184,6 @@
     "readme.md",
     "LICENSE.md",
     "resources/images/large-hardon-collider-2.jpg",
-    "resources/images/large-hardon-collider-1.jpg",
-    "resources/images/future-circular-collider.jpg",
     "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
     "resources/notes/Some Cool Satellites.md",
@@ -228,7 +203,6 @@
     "resources/notes/Subterranean London.md",
     "resources/notes/Size of the Solar System.md",
     "resources/notes/Shrike.md",
-    "resources/notes/Shoemaker–Levy 9.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
