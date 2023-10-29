@@ -1,0 +1,1 @@
+And it is He who created the night and the day and the sun and the moon; all (heavenly bodies) in an orbit are swimming.

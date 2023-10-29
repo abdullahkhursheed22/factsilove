@@ -16,25 +16,31 @@
             }
           },
           {
-            "id": "8159e35703267e67",
+            "id": "f491a0a48e70a677",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Galaxies in the Sky.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "5a244c047d2db4ad",
+            "id": "b291729afe040ba7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Holy Quran 21;33.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,14 +79,6 @@
             }
           },
           {
-            "id": "89f2d81b0b155f6a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "07ca8360a07be09d",
             "type": "leaf",
             "state": {
@@ -108,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Galaxies in the Sky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Galaxies in the Sky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Galaxies in the Sky.md"
+              }
             }
           },
           {
@@ -183,8 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a244c047d2db4ad",
+  "active": "f491a0a48e70a677",
   "lastOpenFiles": [
+    "Holy Quran 21;33.md",
+    "Galaxies in the Sky.md",
     "ASTROPHYSICS.canvas",
     "resources/images/super-kamiokande-2.jpg",
     "resources/notes/Super-Kamiokande.md",
@@ -225,7 +229,6 @@
     "resources/notes/Size of the Solar System.md",
     "resources/notes/Shrike.md",
     "resources/notes/Shoemaker–Levy 9.md",
-    "resources/notes/Saturn.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
