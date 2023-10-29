@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ASTROPHYSICS.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -160,13 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9066879c87eec66",
+  "active": "e160648909b6cc99",
   "lastOpenFiles": [
+    "ASTROPHYSICS.canvas",
     "resources/notes/Holy Quran 21;33.md",
     "resources/notes/Galaxies in the Sky.md",
     "resources/images/magellanic-clouds.jpg",
     "resources/images/andromeda.jpg",
-    "ASTROPHYSICS.canvas",
     "resources/images/super-kamiokande-2.jpg",
     "resources/notes/Super-Kamiokande.md",
     "resources/images/super-kamiokande-3.jpg",
