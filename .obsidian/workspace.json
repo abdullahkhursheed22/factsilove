@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7f495dd03b7fc8ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e160648909b6cc99",
+  "active": "7f495dd03b7fc8ab",
   "lastOpenFiles": [
     "ASTROPHYSICS.canvas",
     "resources/notes/Holy Quran 21;33.md",
