@@ -8,55 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f06627af920b85d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7f495dd03b7fc8ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "5aef8b4a6b16966a",
+            "id": "e91a1807b9f179d7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -635.2578960771336,
-                  "y": -278.1879736769687,
-                  "zoom": -1.4895345880955955
+                  "x": -1109.2584612006829,
+                  "y": -1102.2458617330376,
+                  "zoom": -0.822867921428929
                 }
               }
             }
           },
           {
-            "id": "560aca5afcfd3080",
+            "id": "66ae6144c68f8280",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "NATURE.canvas",
-                "viewState": {
-                  "x": 1115.5,
-                  "y": -689,
-                  "zoom": -1.3591596883513994
-                }
+                "file": "resources/notes/James Webb Space Telescope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d84577cd561e49a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binary Stars.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NATURE.canvas",
+                "file": "Binary Stars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NATURE.canvas",
+                "file": "Binary Stars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NATURE.canvas"
+                "file": "Binary Stars.md"
               }
             }
           },
@@ -201,11 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "560aca5afcfd3080",
+  "active": "d84577cd561e49a2",
   "lastOpenFiles": [
+    "resources/notes/James Webb Space Telescope.md",
+    "Binary Stars.md",
     "ASTROPHYSICS.canvas",
-    "resources/notes/Holy Quran 21;33.md",
+    "resources/notes/Jupiter.md",
     "resources/notes/Galaxies in the Sky.md",
+    "resources/notes/Holy Quran (21;33).md",
+    "NATURE.canvas",
     "resources/images/magellanic-clouds.jpg",
     "resources/images/andromeda.jpg",
     "resources/images/super-kamiokande-2.jpg",
@@ -233,7 +228,6 @@
     "resources/notes/Holy Quran (21;16).md",
     "resources/notes/Holy Quran (2;201).md",
     "readme.txt",
-    "NATURE.canvas",
     "resources/videos/planets-between-earth-and-moon.mp4",
     "resources/videos",
     "resources/notes/Yucatan Peninsula.md",
@@ -242,8 +236,6 @@
     "resources/notes/Vulcan.md",
     "resources/notes/The Pillars of Creation.md",
     "resources/notes/Subterranean London.md",
-    "resources/notes/Size of the Solar System.md",
-    "resources/notes/Shrike.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",

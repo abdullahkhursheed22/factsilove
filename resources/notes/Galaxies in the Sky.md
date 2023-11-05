@@ -10,7 +10,7 @@ Dwarf galaxies are small hard-to-detect galaxies that outnumber normal-sized gal
 
 Dwarf galaxies tend to orbit their bigger counterparts.
 
-[[Holy Quran 21;33]]
+[[Holy Quran (21;33)]]
 
 ![[magellanic-clouds.jpg]]
 
