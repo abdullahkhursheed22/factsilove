@@ -15,39 +15,14 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -1109.2584612006829,
-                  "y": -1102.2458617330376,
-                  "zoom": -0.822867921428929
+                  "x": -1050.5,
+                  "y": -773,
+                  "zoom": -1.8228679214289287
                 }
               }
             }
-          },
-          {
-            "id": "66ae6144c68f8280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/notes/James Webb Space Telescope.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d84577cd561e49a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Stars.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Stars.md",
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Stars.md",
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binary Stars.md"
+                "file": "ASTROPHYSICS.canvas"
               }
             }
           },
@@ -192,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84577cd561e49a2",
+  "active": "d9066879c87eec66",
   "lastOpenFiles": [
+    "resources/notes/Binary Stars.md",
+    "resources/images/binary-stars.jpg",
+    "resources/notes/Holy Quran (51;49).md",
     "resources/notes/James Webb Space Telescope.md",
-    "Binary Stars.md",
     "ASTROPHYSICS.canvas",
     "resources/notes/Jupiter.md",
     "resources/notes/Galaxies in the Sky.md",
@@ -219,7 +196,6 @@
     "resources/notes/Holy Quran (2;26).md",
     "readme.md",
     "LICENSE.md",
-    "resources/images/large-hardon-collider-2.jpg",
     "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
     "resources/notes/Some Cool Satellites.md",
@@ -234,8 +210,6 @@
     "resources/notes/Worms.md",
     "resources/notes/Woodpecker.md",
     "resources/notes/Vulcan.md",
-    "resources/notes/The Pillars of Creation.md",
-    "resources/notes/Subterranean London.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
