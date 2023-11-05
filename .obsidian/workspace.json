@@ -24,9 +24,39 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "5aef8b4a6b16966a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ASTROPHYSICS.canvas",
+                "viewState": {
+                  "x": -635.2578960771336,
+                  "y": -278.1879736769687,
+                  "zoom": -1.4895345880955955
+                }
+              }
+            }
+          },
+          {
+            "id": "560aca5afcfd3080",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "NATURE.canvas",
+                "viewState": {
+                  "x": 1115.5,
+                  "y": -689,
+                  "zoom": -1.3591596883513994
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NATURE.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NATURE.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NATURE.canvas"
+              }
             }
           },
           {
@@ -167,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f495dd03b7fc8ab",
+  "active": "560aca5afcfd3080",
   "lastOpenFiles": [
     "ASTROPHYSICS.canvas",
     "resources/notes/Holy Quran 21;33.md",
