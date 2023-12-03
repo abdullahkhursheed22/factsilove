@@ -2,9 +2,9 @@
 
 The International Space Station orbits 408 kilometers above the surface of the Earth.
 
-![[iss-atronauts.jpg]]
+![[iss-astronaut.jpg]]
 
-The picture above shows astronauts working on the ISS.
+The picture above shows an astronaut working on the ISS.
 
 ![[iss-paris.jpg]]
 
