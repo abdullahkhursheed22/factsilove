@@ -21,8 +21,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "e52de80412266aef",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HUMANS.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": 30,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
+                "file": "HUMANS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
+                "file": "HUMANS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASTROPHYSICS.canvas"
+                "file": "HUMANS.canvas"
               }
             }
           },
@@ -167,13 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9066879c87eec66",
+  "active": "e52de80412266aef",
   "lastOpenFiles": [
+    "ASTROPHYSICS.canvas",
     "resources/notes/Binary Stars.md",
     "resources/images/binary-stars.jpg",
     "resources/notes/Holy Quran (51;49).md",
     "resources/notes/James Webb Space Telescope.md",
-    "ASTROPHYSICS.canvas",
     "resources/notes/Jupiter.md",
     "resources/notes/Galaxies in the Sky.md",
     "resources/notes/Holy Quran (21;33).md",
