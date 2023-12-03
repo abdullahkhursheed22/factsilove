@@ -8,32 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e91a1807b9f179d7",
+            "id": "842786cf125e055f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ASTROPHYSICS.canvas",
-                "viewState": {
-                  "x": -1050.5,
-                  "y": -773,
-                  "zoom": -1.8228679214289287
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "e52de80412266aef",
+            "id": "c50c5fa165cbe6b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "HUMANS.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": 30,
-                  "zoom": 0
-                }
+                "file": "ISS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUMANS.canvas",
+                "file": "ISS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUMANS.canvas",
+                "file": "ISS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUMANS.canvas"
+                "file": "ISS.md"
               }
             }
           },
@@ -183,9 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e52de80412266aef",
+  "active": "c50c5fa165cbe6b1",
   "lastOpenFiles": [
+    "ISS.md",
     "ASTROPHYSICS.canvas",
+    "HUMANS.canvas",
     "resources/notes/Binary Stars.md",
     "resources/images/binary-stars.jpg",
     "resources/notes/Holy Quran (51;49).md",
@@ -212,7 +204,6 @@
     "resources/notes/Holy Quran (2;26).md",
     "readme.md",
     "LICENSE.md",
-    "HUMANS.canvas",
     "conflict-files-obsidian-git.md",
     "resources/notes/Some Cool Satellites.md",
     "resources/notes/Between the Galaxies.md",
