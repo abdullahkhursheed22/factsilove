@@ -2,5 +2,10 @@
 
 The International Space Station orbits 408 kilometers above the surface of the Earth.
 
+![[iss-atronauts.jpg]]
+
 The picture above shows astronauts working on the ISS.
 
+![[iss-paris.jpg]]
+
+This is what Paris looks like from the ISS. Urban geographies form fractals too.
