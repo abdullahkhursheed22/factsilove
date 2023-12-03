@@ -116,9 +116,9 @@
 		{"type":"file","file":"resources/GIFs/dove-2.gif","id":"874ade1d7d1928a9","x":-2109,"y":-1835,"width":146,"height":82,"color":"5"},
 		{"type":"file","file":"resources/images/dove.jpg","id":"38ce7156cb1a6871","x":-2285,"y":-1836,"width":148,"height":83,"color":"5"},
 		{"type":"file","file":"resources/notes/4.md","id":"79f7101fd70ee43f","x":121,"y":-1002,"width":339,"height":175,"color":"6"},
-		{"id":"7349d3eecd9f2e7d","type":"file","file":"ISS.md","x":-2218,"y":-2084,"width":365,"height":168,"color":"6"},
-		{"id":"834c52b3d5f62481","type":"file","file":"iss-astronaut.jpg","x":-2410,"y":-2125,"width":94,"height":94,"color":"5"},
-		{"id":"241d7d755a86f6fd","x":-2400,"y":-1972,"width":75,"height":113,"color":"5","type":"file","file":"iss-paris.jpg"}
+		{"id":"7349d3eecd9f2e7d","type":"file","file":"resources/notes/ISS.md","x":-2218,"y":-2084,"width":365,"height":168,"color":"6"},
+		{"id":"834c52b3d5f62481","type":"file","file":"resources/images/iss-astronaut.jpg","x":-2410,"y":-2125,"width":94,"height":94,"color":"5"},
+		{"id":"241d7d755a86f6fd","x":-2400,"y":-1972,"width":75,"height":113,"color":"5","type":"file","file":"resources/images/iss-paris.jpg"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},

@@ -21,28 +21,6 @@
                 }
               }
             }
-          },
-          {
-            "id": "c50c5fa165cbe6b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ISS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e81149067577a33",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "iss-paris.jpg"
-              }
-            }
           }
         ]
       }
@@ -189,12 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "842786cf125e055f",
+  "active": "d9066879c87eec66",
   "lastOpenFiles": [
-    "iss-paris.jpg",
+    "resources/images/iss-paris.jpg",
     "ASTROPHYSICS.canvas",
-    "ISS.md",
-    "iss-astronaut.jpg",
+    "resources/notes/ISS.md",
+    "resources/images/iss-astronaut.jpg",
     "iss-atronauts.jpg",
     "HUMANS.canvas",
     "resources/notes/Binary Stars.md",
