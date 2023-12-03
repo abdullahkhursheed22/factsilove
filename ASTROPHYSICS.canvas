@@ -87,9 +87,6 @@
 		{"type":"file","file":"resources/images/dove-imagery-3.jpg","id":"c194cd8f6a42f9c7","x":-1630,"y":-1927,"width":121,"height":91,"color":"5"},
 		{"type":"file","file":"resources/images/dove-imagery-4.jpg","id":"ddc074654a9063a0","x":-1628,"y":-1807,"width":121,"height":91,"color":"5"},
 		{"type":"file","file":"resources/images/dove-imagery-5.jpg","id":"06c0213e03f16fcd","x":-1626,"y":-1669,"width":119,"height":89,"color":"5"},
-		{"type":"file","file":"resources/GIFs/dove-2.gif","id":"874ade1d7d1928a9","x":-2193,"y":-1837,"width":146,"height":82,"color":"5"},
-		{"type":"file","file":"resources/GIFs/isro-launch.gif","id":"d946516a0f7a3e71","x":-2014,"y":-1836,"width":142,"height":80,"color":"5"},
-		{"type":"file","file":"resources/images/dove.jpg","id":"38ce7156cb1a6871","x":-2369,"y":-1838,"width":148,"height":83,"color":"5"},
 		{"id":"08ba4c1ff9ddcc1e","type":"file","file":"resources/notes/Large Hadron Collider.md","x":-1443,"y":-2125,"width":374,"height":325,"color":"6"},
 		{"id":"a9f529009252e916","type":"file","file":"resources/images/large-hardon-collider-1.jpg","x":-1530,"y":-2319,"width":107,"height":80,"color":"5"},
 		{"id":"1d4acbc21fe44611","type":"file","file":"resources/images/large-hardon-collider-2.jpg","x":-1389,"y":-2319,"width":107,"height":80,"color":"5"},
@@ -109,13 +106,19 @@
 		{"id":"eab0c07f8a371a11","type":"file","file":"resources/notes/Holy Quran (21;33).md","x":-21,"y":580,"width":314,"height":194,"color":"1"},
 		{"id":"5c199a8bc016165b","type":"file","file":"resources/images/magellanic-clouds.jpg","x":407,"y":440,"width":117,"height":88,"color":"5"},
 		{"id":"fa218cc293704dd8","type":"file","file":"resources/images/andromeda.jpg","x":400,"y":301,"width":131,"height":87,"color":"5"},
-		{"type":"file","file":"resources/notes/4.md","id":"79f7101fd70ee43f","x":-2840,"y":-1323,"width":339,"height":175,"color":"6"},
 		{"type":"file","file":"resources/notes/Rings of the Solar System.md","id":"5fe4f7ddc23b0ff7","x":-1329,"y":-1358,"width":336,"height":209,"color":"6"},
 		{"type":"file","file":"resources/notes/James Webb Space Telescope.md","id":"a02dffd722e32ed1","x":-1776,"y":-1034,"width":305,"height":260,"color":"6"},
 		{"type":"file","file":"resources/images/jwst.jpg","id":"5f98e81a0e580d05","x":-2008,"y":-950,"width":142,"height":93,"color":"5"},
 		{"id":"db5580dd15c77c58","type":"file","file":"resources/images/binary-stars.jpg","x":-1439,"y":-834,"width":92,"height":120,"color":"5"},
 		{"id":"43b6d08dd91f13c4","type":"file","file":"resources/notes/Binary Stars.md","x":-1295,"y":-900,"width":269,"height":86,"color":"6"},
-		{"id":"33fe964644330096","type":"file","file":"resources/notes/Holy Quran (51;49).md","x":-1321,"y":-1090,"width":320,"height":140,"color":"1"}
+		{"id":"33fe964644330096","type":"file","file":"resources/notes/Holy Quran (51;49).md","x":-1321,"y":-1090,"width":320,"height":140,"color":"1"},
+		{"type":"file","file":"resources/GIFs/isro-launch.gif","id":"d946516a0f7a3e71","x":-1930,"y":-1834,"width":142,"height":80,"color":"5"},
+		{"type":"file","file":"resources/GIFs/dove-2.gif","id":"874ade1d7d1928a9","x":-2109,"y":-1835,"width":146,"height":82,"color":"5"},
+		{"type":"file","file":"resources/images/dove.jpg","id":"38ce7156cb1a6871","x":-2285,"y":-1836,"width":148,"height":83,"color":"5"},
+		{"type":"file","file":"resources/notes/4.md","id":"79f7101fd70ee43f","x":121,"y":-1002,"width":339,"height":175,"color":"6"},
+		{"id":"7349d3eecd9f2e7d","type":"file","file":"ISS.md","x":-2218,"y":-2084,"width":365,"height":168,"color":"6"},
+		{"id":"834c52b3d5f62481","type":"file","file":"iss-astronaut.jpg","x":-2410,"y":-2125,"width":94,"height":94,"color":"5"},
+		{"id":"241d7d755a86f6fd","x":-2400,"y":-1972,"width":75,"height":113,"color":"5","type":"file","file":"iss-paris.jpg"}
 	],
 	"edges":[
 		{"id":"f3ed0659caacf7ba","fromNode":"75ee6f1807042713","fromSide":"left","toNode":"eb74bcc4bcad315b","toSide":"right"},
@@ -217,6 +220,8 @@
 		{"id":"5087c50a387eed2e","fromNode":"a02dffd722e32ed1","fromSide":"left","toNode":"5f98e81a0e580d05","toSide":"right"},
 		{"id":"5d483281dd618e01","fromNode":"a02dffd722e32ed1","fromSide":"right","toNode":"43b6d08dd91f13c4","toSide":"left"},
 		{"id":"5660fab99af79e7e","fromNode":"33fe964644330096","fromSide":"bottom","toNode":"43b6d08dd91f13c4","toSide":"top"},
-		{"id":"7d3bf56aba0426e6","fromNode":"43b6d08dd91f13c4","fromSide":"bottom","toNode":"db5580dd15c77c58","toSide":"right"}
+		{"id":"7d3bf56aba0426e6","fromNode":"43b6d08dd91f13c4","fromSide":"bottom","toNode":"db5580dd15c77c58","toSide":"right"},
+		{"id":"0f34e665a0df73cb","fromNode":"7349d3eecd9f2e7d","fromSide":"left","toNode":"834c52b3d5f62481","toSide":"right"},
+		{"id":"a78578d6664bd353","fromNode":"7349d3eecd9f2e7d","fromSide":"left","toNode":"241d7d755a86f6fd","toSide":"right"}
 	]
 }

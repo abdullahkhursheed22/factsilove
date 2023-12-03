@@ -11,8 +11,15 @@
             "id": "842786cf125e055f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "ASTROPHYSICS.canvas",
+                "viewState": {
+                  "x": -835.5,
+                  "y": -773,
+                  "zoom": -1.8228679214289287
+                }
+              }
             }
           },
           {
@@ -26,9 +33,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e81149067577a33",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "iss-paris.jpg"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISS.md",
+                "file": "ASTROPHYSICS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISS.md",
+                "file": "ASTROPHYSICS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISS.md"
+                "file": "ASTROPHYSICS.canvas"
               }
             }
           },
@@ -173,13 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c50c5fa165cbe6b1",
+  "active": "842786cf125e055f",
   "lastOpenFiles": [
-    "iss-astronaut.jpg",
     "iss-paris.jpg",
-    "iss-atronauts.jpg",
-    "ISS.md",
     "ASTROPHYSICS.canvas",
+    "ISS.md",
+    "iss-astronaut.jpg",
+    "iss-atronauts.jpg",
     "HUMANS.canvas",
     "resources/notes/Binary Stars.md",
     "resources/images/binary-stars.jpg",
@@ -200,7 +216,6 @@
     "resources/notes/4.md",
     "resources/notes/Large Hadron Collider.md",
     "resources/notes/Laser Interferometer Gravitational-Wave Observatory.md",
-    "resources/images/ligo-mechanism.jpg",
     "resources/notes/Holy Quran (52;9).md",
     "resources/notes/Holy Quran (2;26).md",
     "readme.md",
