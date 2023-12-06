@@ -22,6 +22,9 @@ The contents of this document, along with all other legal aspects pertaining to 
 		- Attribution: Which is done [hereby](https://hyperioncantos.fandom.com/wiki/Shrike)
 		- ShareAlike: Since we have not made any modifications or alterations to the file, you are free to use it in its original form, in accordance with the aforementioned license. Simply locate the corresponding file within the project's folder structure.
 
+## ESA
+
+### Medai usem from them
 - ./resources/images/cmbr.jpg
     - License: ESA standard license
     - License Requirements:
