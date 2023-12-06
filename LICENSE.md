@@ -22,3 +22,10 @@ The contents of this document, along with all other legal aspects pertaining to 
 		- Attribution: Which is done [hereby](https://hyperioncantos.fandom.com/wiki/Shrike)
 		- ShareAlike: Since we have not made any modifications or alterations to the file, you are free to use it in its original form, in accordance with the aforementioned license. Simply locate the corresponding file within the project's folder structure.
 
+## ESO
+
+### Media used from them
+- ./resources/images/iss-paris.jpg
+    - License: [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.en)
+    - License Requirements:
+        - Attribution: European Southern Observatory [Link](https://www.eso.org)
