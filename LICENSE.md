@@ -38,3 +38,11 @@ The contents of this document, along with all other legal aspects pertaining to 
         - Credit: ESA and the Planck Collaboration
         - ESA images may not be used to state or imply the endorsement by ESA or any ESA employee of a commercial product, process or service, or used in any other manner that might mislead.
         - If ESA images are to be used in advertising or any commercial promotion, layout and copy must be submitted to ESA beforehand for approval to: spaceinimages@esa.int
+
+## ESO
+
+### Media used from them
+- ./resources/images/iss-paris.jpg
+    - License: [CC BY 4.0 DEED](https://creativecommons.org/licenses/by/4.0/deed.en)
+    - License Requirements:
+        - Attribution: European Southern Observatory [Link](https://www.eso.org)
