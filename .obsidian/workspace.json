@@ -15,10 +15,34 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -835.5,
-                  "y": -773,
-                  "zoom": -1.8228679214289287
+                  "x": -696.1754991464659,
+                  "y": -1806.5844550915338,
+                  "zoom": -0.15620125476226232
                 }
+              }
+            }
+          },
+          {
+            "id": "2f2a1a70724db290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/notes/Arrhenotoky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "facfaac9ee39abc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/notes/Astrolabe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -167,10 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9066879c87eec66",
+  "active": "842786cf125e055f",
   "lastOpenFiles": [
-    "resources/images/iss-paris.jpg",
+    "resources/notes/Astrolabe.md",
+    "resources/notes/Arrhenotoky.md",
     "ASTROPHYSICS.canvas",
+    "resources/notes/Artemis 1.md",
+    "resources/images/iss-paris.jpg",
     "resources/notes/ISS.md",
     "resources/images/iss-astronaut.jpg",
     "iss-atronauts.jpg",
@@ -207,9 +234,6 @@
     "readme.txt",
     "resources/videos/planets-between-earth-and-moon.mp4",
     "resources/videos",
-    "resources/notes/Yucatan Peninsula.md",
-    "resources/notes/Worms.md",
-    "resources/notes/Woodpecker.md",
     "resources/notes",
     "resources/images",
     "resources/GIFs",
