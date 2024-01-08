@@ -22,6 +22,16 @@ The contents of this document, along with all other legal aspects pertaining to 
 		- Attribution: Which is done [hereby](https://hyperioncantos.fandom.com/wiki/Shrike)
 		- ShareAlike: Since we have not made any modifications or alterations to the file, you are free to use it in its original form, in accordance with the aforementioned license. Simply locate the corresponding file within the project's folder structure.
 
+
+## MyLearning
+
+### Media used from them
+- ./resources/images/ant-war-strategies-3.jpeg
+    - License:  [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
+    - License Requirements:
+        - Attribution: Which is done [hereby](https://www.mylearning.org/resources/turtle-ant)
+        - ShareAlike: Since we have not made any modifications or alterations to the file, you are free to use it in its original form, in accordance with the aforementioned license. Simply locate the corresponding file within the project's folder structure.
+
 ## ESO
 
 ### Media used from them
