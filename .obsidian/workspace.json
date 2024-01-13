@@ -15,14 +15,27 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -698.9834828992043,
-                  "y": -1001.1089467477807,
-                  "zoom": -1.8228679214289287
+                  "x": -331.52769237590155,
+                  "y": -1016.7997103947539,
+                  "zoom": -1.4895345880955955
                 }
               }
             }
+          },
+          {
+            "id": "e8b50325cd741767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources/notes/Astrolabe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
+                "file": "resources/notes/Astrolabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASTROPHYSICS.canvas",
+                "file": "resources/notes/Astrolabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASTROPHYSICS.canvas"
+                "file": "resources/notes/Astrolabe.md"
               }
             }
           },
@@ -146,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -167,11 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "842786cf125e055f",
+  "active": "e8b50325cd741767",
   "lastOpenFiles": [
+    "romatnic era.md",
+    "jANE Austin.md",
     "resources/notes/Astrolabe.md",
-    "resources/notes/Arrhenotoky.md",
     "ASTROPHYSICS.canvas",
+    "resources/notes/Neptune.md",
+    "resources/notes/James Webb Space Telescope.md",
+    "resources/notes/Arrhenotoky.md",
     "resources/notes/Artemis 1.md",
     "resources/images/iss-paris.jpg",
     "resources/notes/ISS.md",
@@ -181,7 +200,6 @@
     "resources/notes/Binary Stars.md",
     "resources/images/binary-stars.jpg",
     "resources/notes/Holy Quran (51;49).md",
-    "resources/notes/James Webb Space Telescope.md",
     "resources/notes/Jupiter.md",
     "resources/notes/Galaxies in the Sky.md",
     "resources/notes/Holy Quran (21;33).md",
@@ -205,8 +223,6 @@
     "resources/notes/Some Cool Satellites.md",
     "resources/notes/Between the Galaxies.md",
     "resources/notes/Holy Quran (45;60).md",
-    "resources/notes/Holy Quran (21;16).md",
-    "resources/notes/Holy Quran (2;201).md",
     "readme.txt",
     "resources/videos/planets-between-earth-and-moon.mp4",
     "resources/videos",
