@@ -15,23 +15,19 @@
               "state": {
                 "file": "HUMANS.canvas",
                 "viewState": {
-                  "x": 1061.306061584109,
-                  "y": 242.33264301043883,
-                  "zoom": -1
+                  "x": 258,
+                  "y": 30,
+                  "zoom": 0
                 }
               }
             }
           },
           {
-            "id": "8baf84a71936b006",
+            "id": "5f407c414dda2d2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lunch atop a Skyscraper.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -184,8 +180,8 @@
   "active": "4dd2ea3ed151b442",
   "lastOpenFiles": [
     "Lunch atop a Skyscraper.md",
-    "manhattan.jpg",
     "HUMANS.canvas",
+    "manhattan.jpg",
     "workers-atop-skyscrapers-3.jpg",
     "workers-atop-skyscrapers-2.jpg",
     "workers-atop-skyscrapers.jpg",
