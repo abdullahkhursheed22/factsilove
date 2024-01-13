@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"9cc2af68c3ba4d31","x":659,"y":-157,"width":400,"height":400,"type":"file","file":"lunch-atop-a-skyscraper-2.jpeg"},
 		{"type":"file","file":"resources/notes/Subterranean London.md","id":"48fab7ab558c09ff","x":-112,"y":-25,"width":392,"height":165,"color":"3"},
 		{"type":"file","file":"resources/images/london-tunnels-1.jpg","id":"b3799985f9832aec","x":-313,"y":-117,"width":109,"height":82,"color":"5"},
 		{"type":"file","file":"resources/images/london-tunnels-3.jpg","id":"6c5ec6d479868721","x":-317,"y":141,"width":118,"height":79,"color":"5"},
@@ -8,7 +9,9 @@
 		{"type":"file","file":"resources/images/london-tunnels-5.jpg","id":"776f6af3f2535ebf","x":5,"y":-220,"width":120,"height":80,"color":"5"},
 		{"type":"file","file":"resources/images/london-tunnels-6.jpg","id":"f950a0cc9bf182ef","x":161,"y":-219,"width":118,"height":79,"color":"5"},
 		{"type":"file","file":"resources/images/london-tunnels-7.jpg","id":"418c31848ec2a454","x":-65,"y":220,"width":139,"height":84,"color":"5"},
-		{"type":"file","file":"resources/images/london-tunnels-8.jpg","id":"b4b3663d4d7af6a7","x":92,"y":222,"width":142,"height":80,"color":"5"}
+		{"type":"file","file":"resources/images/london-tunnels-8.jpg","id":"b4b3663d4d7af6a7","x":92,"y":222,"width":142,"height":80,"color":"5"},
+		{"id":"527ed6e2e8f89a3e","x":320,"y":10,"width":387,"height":96,"color":"3","type":"file","file":"Lunch atop a Skyscraper.md"},
+		{"id":"f3a1af4a5aebd310","x":465,"y":-281,"width":400,"height":309,"type":"file","file":"lunch-atop-a-skyscraper.jpg"}
 	],
 	"edges":[
 		{"id":"c73eb3bfa6290a0d","fromNode":"48fab7ab558c09ff","fromSide":"left","toNode":"b3799985f9832aec","toSide":"right"},

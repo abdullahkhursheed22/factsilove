@@ -15,9 +15,9 @@
               "state": {
                 "file": "HUMANS.canvas",
                 "viewState": {
-                  "x": 420.76294090285063,
-                  "y": 15.815889794372815,
-                  "zoom": -0.3333333333333333
+                  "x": 1061.306061584109,
+                  "y": 242.33264301043883,
+                  "zoom": -1
                 }
               }
             }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lunch atop a Skyscraper.md",
+                "file": "HUMANS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lunch atop a Skyscraper.md",
+                "file": "HUMANS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lunch atop a Skyscraper.md"
+                "file": "HUMANS.canvas"
               }
             }
           },
@@ -182,10 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8baf84a71936b006",
+  "active": "4dd2ea3ed151b442",
   "lastOpenFiles": [
-    "HUMANS.canvas",
     "Lunch atop a Skyscraper.md",
+    "manhattan.jpg",
+    "HUMANS.canvas",
+    "workers-atop-skyscrapers-3.jpg",
+    "workers-atop-skyscrapers-2.jpg",
+    "workers-atop-skyscrapers.jpg",
+    "1661106959440.jpg",
+    "lunch-atop-a-skyscraper-2.jpeg",
+    "lunch-atop-a-skyscraper.jpg",
     "ASTROPHYSICS.canvas",
     "NATURE.canvas",
     "resources/notes/Astrolabe.md",
@@ -200,18 +206,11 @@
     "resources/images/iss-astronaut.jpg",
     "iss-atronauts.jpg",
     "resources/notes/Binary Stars.md",
-    "resources/images/binary-stars.jpg",
     "resources/notes/Holy Quran (51;49).md",
     "resources/notes/Jupiter.md",
     "resources/notes/Galaxies in the Sky.md",
     "resources/notes/Holy Quran (21;33).md",
-    "resources/images/magellanic-clouds.jpg",
-    "resources/images/andromeda.jpg",
-    "resources/images/super-kamiokande-2.jpg",
     "resources/notes/Super-Kamiokande.md",
-    "resources/images/super-kamiokande-3.jpg",
-    "resources/images/super-kamiokande-2.jpg",
-    "resources/images/super-kamiokande-1.jpg",
     "resources/notes/Holy Quran (34;3).md",
     "resources/notes/4.md",
     "resources/notes/Large Hadron Collider.md",
