@@ -9,13 +9,13 @@
 		{"type":"file","file":"resources/images/london-tunnels-6.jpg","id":"f950a0cc9bf182ef","x":161,"y":-219,"width":118,"height":79,"color":"5"},
 		{"type":"file","file":"resources/images/london-tunnels-7.jpg","id":"418c31848ec2a454","x":-65,"y":220,"width":139,"height":84,"color":"5"},
 		{"type":"file","file":"resources/images/london-tunnels-8.jpg","id":"b4b3663d4d7af6a7","x":92,"y":222,"width":142,"height":80,"color":"5"},
-		{"id":"527ed6e2e8f89a3e","x":320,"y":10,"width":387,"height":96,"color":"3","type":"file","file":"resources/notes/Lunch atop a Skyscraper.md"},
-		{"id":"63663d0a711b57e8","x":457,"y":200,"width":114,"height":95,"color":"5","type":"file","file":"resources/images/workers-atop-skyscrapers-2.jpg"},
-		{"id":"c4766d8fce34f376","x":601,"y":193,"width":99,"height":109,"color":"5","type":"file","file":"resources/images/workers-atop-skyscrapers-3.jpg"},
-		{"id":"852cc9bb05cea440","x":305,"y":206,"width":118,"height":84,"color":"5","type":"file","file":"resources/images/workers-atop-skyscrapers.jpg"},
-		{"id":"072a3bb2247e9062","x":740,"y":-6,"width":96,"height":129,"color":"5","type":"file","file":"resources/images/manhattan.jpg"},
-		{"id":"9cc2af68c3ba4d31","x":524,"y":-148,"width":94,"height":94,"color":"5","type":"file","file":"resources/images/lunch-atop-a-skyscraper-2.jpeg"},
-		{"id":"f3a1af4a5aebd310","x":388,"y":-140,"width":106,"height":82,"color":"5","type":"file","file":"resources/images/lunch-atop-a-skyscraper.jpg"}
+		{"id":"527ed6e2e8f89a3e","type":"file","file":"resources/notes/Lunch atop a Skyscraper.md","x":320,"y":10,"width":387,"height":96,"color":"3"},
+		{"id":"63663d0a711b57e8","type":"file","file":"resources/images/workers-atop-skyscrapers-2.jpg","x":457,"y":200,"width":114,"height":95,"color":"5"},
+		{"id":"c4766d8fce34f376","type":"file","file":"resources/images/workers-atop-skyscrapers-3.jpg","x":601,"y":193,"width":99,"height":109,"color":"5"},
+		{"id":"852cc9bb05cea440","type":"file","file":"resources/images/workers-atop-skyscrapers.jpg","x":305,"y":206,"width":118,"height":84,"color":"5"},
+		{"id":"072a3bb2247e9062","type":"file","file":"resources/images/manhattan.jpg","x":740,"y":-6,"width":96,"height":129,"color":"5"},
+		{"id":"9cc2af68c3ba4d31","type":"file","file":"resources/images/lunch-atop-a-skyscraper-2.jpeg","x":524,"y":-148,"width":94,"height":94,"color":"5"},
+		{"id":"f3a1af4a5aebd310","type":"file","file":"resources/images/lunch-atop-a-skyscraper.jpg","x":388,"y":-140,"width":106,"height":82,"color":"5"}
 	],
 	"edges":[
 		{"id":"c73eb3bfa6290a0d","fromNode":"48fab7ab558c09ff","fromSide":"left","toNode":"b3799985f9832aec","toSide":"right"},
