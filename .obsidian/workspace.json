@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4dd2ea3ed151b442",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HUMANS.canvas",
-                "viewState": {
-                  "x": 258,
-                  "y": 30,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "5f407c414dda2d2f",
             "type": "leaf",
             "state": {
@@ -30,10 +15,20 @@
               "state": {
                 "file": "ASTROPHYSICS.canvas",
                 "viewState": {
-                  "x": -675.53854542868,
-                  "y": -737.8875048889522,
-                  "zoom": -1.4895345880955955
+                  "x": -835.5,
+                  "y": -773,
+                  "zoom": -1.9980513849731325
                 }
+              }
+            }
+          },
+          {
+            "id": "3ab172a734b46f93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -185,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f407c414dda2d2f",
+  "active": "3ab172a734b46f93",
   "lastOpenFiles": [
     "HUMANS.canvas",
     "resources/notes/Lunch atop a Skyscraper.md",
