@@ -17,23 +17,12 @@
                 "viewState": {
                   "x": -835.5,
                   "y": -773,
-                  "zoom": -1.9980513849731325
+                  "zoom": -1.9546838756636127
                 }
               }
             }
-          },
-          {
-            "id": "3ab172a734b46f93",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ab172a734b46f93",
+  "active": "5f407c414dda2d2f",
   "lastOpenFiles": [
+    "ASTROPHYSICS.canvas",
     "HUMANS.canvas",
     "resources/notes/Lunch atop a Skyscraper.md",
     "resources/images/manhattan.jpg",
@@ -191,7 +181,6 @@
     "1661106959440.jpg",
     "resources/images/lunch-atop-a-skyscraper-2.jpeg",
     "resources/images/lunch-atop-a-skyscraper.jpg",
-    "ASTROPHYSICS.canvas",
     "NATURE.canvas",
     "resources/notes/Astrolabe.md",
     "romatnic era.md",
