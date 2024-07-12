@@ -4,6 +4,6 @@ An astrolabe is a two-dimensional model of the celestial sphere. It was once the
 
 ![[astrolabe.jpg]]
 
-It was further developed and used widely in the Muslim world as an instrument of navigation and to find the direction of the Qibla.
+It was further developed and used widely in the Muslim world as an instrument of navigation and to find the direction of the Qibla. [[jANE Austin]]
 
 ![[astrolabe-2.jpg]]
