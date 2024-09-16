@@ -16,3 +16,6 @@ null*
 .trash/
 .DS_Store
 resources/.DS_Store
+
+# Exclude known decrepit Files
+new\ 1.txt
